@@ -33,14 +33,14 @@ import com.google.gwt.view.client.ProvidesKey;
 /**
  * @author Joshua Godi
  */
-public class CellTable<T> extends com.google.gwt.user.cellview.client.CellTable<T> implements HasResponsiveness {
+public class CellTableGWT<T> extends com.google.gwt.user.cellview.client.CellTable<T> implements HasResponsiveness {
     private static final int DEFAULT_PAGESIZE = 15;
     private static Resources DEFAULT_RESOURCES;
 
     /**
      * Constructs a table with a default page size of 15.
      */
-    public CellTable() {
+    public CellTableGWT() {
         this(DEFAULT_PAGESIZE);
     }
 
@@ -49,7 +49,7 @@ public class CellTable<T> extends com.google.gwt.user.cellview.client.CellTable<
      *
      * @param pageSize the page size
      */
-    public CellTable(final int pageSize) {
+    public CellTableGWT(final int pageSize) {
         this(pageSize, getDefaultResources());
     }
 
@@ -60,7 +60,7 @@ public class CellTable<T> extends com.google.gwt.user.cellview.client.CellTable<
      * @param keyProvider an instance of ProvidesKey, or null if the record
      *                    object should act as its own key
      */
-    public CellTable(final ProvidesKey<T> keyProvider) {
+    public CellTableGWT(final ProvidesKey<T> keyProvider) {
         this(DEFAULT_PAGESIZE, keyProvider);
     }
 
@@ -71,7 +71,7 @@ public class CellTable<T> extends com.google.gwt.user.cellview.client.CellTable<
      * @param pageSize  the page size
      * @param resources the resources to use for this widget
      */
-    public CellTable(final int pageSize, final Resources resources) {
+    public CellTableGWT(final int pageSize, final Resources resources) {
         super(pageSize, resources, null);
     }
 
@@ -83,7 +83,7 @@ public class CellTable<T> extends com.google.gwt.user.cellview.client.CellTable<
      * @param keyProvider an instance of ProvidesKey, or null if the record
      *                    object should act as its own key
      */
-    public CellTable(final int pageSize, final ProvidesKey<T> keyProvider) {
+    public CellTableGWT(final int pageSize, final ProvidesKey<T> keyProvider) {
         super(pageSize, getDefaultResources(), keyProvider);
     }
 
@@ -98,7 +98,7 @@ public class CellTable<T> extends com.google.gwt.user.cellview.client.CellTable<
      * @param loadingIndicator the widget to use as a loading indicator, or null
      *                         to disable
      */
-    public CellTable(final int pageSize, final Resources resources, final ProvidesKey<T> keyProvider, final Widget loadingIndicator) {
+    public CellTableGWT(final int pageSize, final Resources resources, final ProvidesKey<T> keyProvider, final Widget loadingIndicator) {
         this(pageSize, resources, keyProvider, loadingIndicator, true, true);
     }
 
@@ -122,7 +122,7 @@ public class CellTable<T> extends com.google.gwt.user.cellview.client.CellTable<
      *                           can call {@link #getTableLoadingSection} and attach it to other elements outside the
      *                           table element
      */
-    public CellTable(final int pageSize, final Resources resources, final ProvidesKey<T> keyProvider,
+    public CellTableGWT(final int pageSize, final Resources resources, final ProvidesKey<T> keyProvider,
                      final Widget loadingIndicator, final boolean enableColGroup, final boolean attachLoadingPanel) {
         super(pageSize, resources, keyProvider, loadingIndicator, enableColGroup, attachLoadingPanel);
         StyleHelper.addEnumStyleName(this, TableType.DEFAULT);
@@ -130,7 +130,7 @@ public class CellTable<T> extends com.google.gwt.user.cellview.client.CellTable<
 
     private static Resources getDefaultResources() {
         if (DEFAULT_RESOURCES == null) {
-            final CellTable.Resources cellTableResources = GWT.create(CellTable.Resources.class);
+            final CellTableGWT.Resources cellTableResources = GWT.create(CellTableGWT.Resources.class);
             DEFAULT_RESOURCES = new ResourcesAdapter(cellTableResources);
         }
         return DEFAULT_RESOURCES;
@@ -181,11 +181,11 @@ public class CellTable<T> extends com.google.gwt.user.cellview.client.CellTable<
     /**
      * Resources/Styles to remove the GWT styling of the tables!
      */
-    private static class ResourcesAdapter implements CellTable.Resources {
-        private final CellTable.Resources resources;
+    private static class ResourcesAdapter implements CellTableGWT.Resources {
+        private final CellTableGWT.Resources resources;
         private final StyleAdapter style;
 
-        public ResourcesAdapter(final CellTable.Resources resources) {
+        public ResourcesAdapter(final CellTableGWT.Resources resources) {
             this.resources = resources;
             this.style = new StyleAdapter();
         }
@@ -226,7 +226,7 @@ public class CellTable<T> extends com.google.gwt.user.cellview.client.CellTable<
         }
     }
 
-    private static class StyleAdapter implements CellTable.Style {
+    private static class StyleAdapter implements CellTableGWT.Style {
         private static final String B = "gwtb3-";
         private static final String DUMMY = B + "d";
 
