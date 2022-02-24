@@ -8,5 +8,5 @@ target/
 .settings/
 out/
 *.versionsBackup
-*.svn
+*.svn/
 
