@@ -1,26 +1,0 @@
-
-norg.gwtbootstrap3.client.ui.ModalSize#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/ModalSize; 
-•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ModalSize.java. .()"1*Í
-1 
-•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ModalSize.java/ /(á
-Þ
- 
-•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ModalSize.java/D /(J+
-%0%org.gwtbootstrap3.client.ui.ModalSize"__id*
-""ë
-è
- 
-•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ModalSize.java/ /(K+
-%1%org.gwtbootstrap3.client.ui.ModalSize"…org.gwtbootstrap3.client.ui.base.helper.EnumHelper#fromStyleName(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Enum;)Ljava/lang/Enum;*6"4
-2org.gwtbootstrap3.client.ui.base.helper.EnumHelper*
-
-	styleNamejava.lang.String*
-""*-
-+
-%0%org.gwtbootstrap3.client.ui.ModalSize"Ò
- 
-•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ModalSize.java/ /(L-
-+
-%1%org.gwtbootstrap3.client.ui.ModalSize:
-	styleNamejava.lang.StringB)"'
-%org.gwtbootstrap3.client.ui.ModalSize

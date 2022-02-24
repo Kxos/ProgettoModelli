@@ -1,20 +1,0 @@
-
-horg.gwtbootstrap3.client.ui.CheckBoxButton#getIconFlip()Lorg/gwtbootstrap3/client/ui/constants/IconFlip;‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java• •("1*ÿ
-1‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java– –(Ç
-Ä
-‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java– –(&
-%0 org.gwtbootstrap3.client.ui.Icon"\org.gwtbootstrap3.client.ui.CheckBoxButton#getActualIcon()Lorg/gwtbootstrap3/client/ui/Icon;*.,
-*org.gwtbootstrap3.client.ui.CheckBoxButtonØÕ
-‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java– –((4
-%1.org.gwtbootstrap3.client.ui.constants.IconFlip"Zorg.gwtbootstrap3.client.ui.Icon#getFlip()Lorg/gwtbootstrap3/client/ui/constants/IconFlip;*(
-&
-%0 org.gwtbootstrap3.client.ui.Icon2	getFlip()"Æ
-‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java– –()6
-4
-%1.org.gwtbootstrap3.client.ui.constants.IconFlipB.,
-*org.gwtbootstrap3.client.ui.CheckBoxButton

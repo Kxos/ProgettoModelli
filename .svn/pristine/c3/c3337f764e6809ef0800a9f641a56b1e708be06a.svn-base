@@ -1,16 +1,0 @@
-
-horg.gwtbootstrap3.client.shared.event.TooltipShowEvent#getTooltip()Lorg/gwtbootstrap3/client/ui/Tooltip;–
-‹C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipShowEvent.java0 0("1*þ
-1–
-‹C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipShowEvent.java1 1(–
-“
-–
-‹C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipShowEvent.java1 1()
-%0#org.gwtbootstrap3.client.ui.Tooltip"__id*G*E8
-6org.gwtbootstrap3.client.shared.event.TooltipShowEvent"	
-tooltip"Æ
-–
-‹C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipShowEvent.java1 1(+
-)
-%0#org.gwtbootstrap3.client.ui.TooltipB:8
-6org.gwtbootstrap3.client.shared.event.TooltipShowEvent

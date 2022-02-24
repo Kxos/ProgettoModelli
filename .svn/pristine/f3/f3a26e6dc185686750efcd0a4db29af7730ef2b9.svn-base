@@ -1,103 +1,0 @@
-
-<<<<<<< .mine
-org.gwtbootstrap3.client.ui.gwt.HTMLPanel#getContextualBackground()Lorg/gwtbootstrap3/client/ui/constants/ContextualBackground;
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.java°  °(7"1*õ
-1
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.java± ±(#µ²
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.java±2 ±(@
-%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*-+
-)org.gwtbootstrap3.client.ui.gwt.HTMLPanel2getStyleName()Ì
-É
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.java± ±(A@
-%1:org.gwtbootstrap3.client.ui.constants.ContextualBackground"˜org.gwtbootstrap3.client.ui.constants.ContextualBackground#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/ContextualBackground;*>"<
-:org.gwtbootstrap3.client.ui.constants.ContextualBackground*
-
-%0java.lang.String"Ö
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.java± ±(BB
-@
-%1:org.gwtbootstrap3.client.ui.constants.ContextualBackgroundB-+
-)org.gwtbootstrap3.client.ui.gwt.HTMLPanel||||||| .r11
-‘org.gwtbootstrap3.client.ui.Icon#addClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;…
-yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java­ ­(."startingBlock*ì
-startingBlock…
-yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java­. ­(Jð
-í
-…
-yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java¬ ¬(
-%2"
-__annotate*
-java.lang.Override*9
-7
-handler,com.google.gwt.event.dom.client.ClickHandlerÚ
-×
-…
-yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java­B ­(I7
-handler,com.google.gwt.event.dom.client.ClickHandler"__annotation*
-
-%2*
-1*¯
-
-1…
-yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java® ®(Õ
-Ò
-…
-yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java®& ®(:3
-%0-com.google.gwt.event.dom.client.DomEvent$Type"ccom.google.gwt.event.dom.client.ClickEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*.",
-*com.google.gwt.event.dom.client.ClickEvent…‚
-…
-yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java® ®(;5
-%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*$"
- org.gwtbootstrap3.client.ui.Icon*9
-7
-handler,com.google.gwt.event.dom.client.ClickHandler*5
-3
-%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"Á
-…
-yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java® ®(<7
-5
-%1/com.google.gwt.event.shared.HandlerRegistration:7
-handler,com.google.gwt.event.dom.client.ClickHandlerB$"
- org.gwtbootstrap3.client.ui.Icon=======
-‘org.gwtbootstrap3.client.ui.Icon#addClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;
-D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java­ ­(."startingBlock*´
-startingBlock
-D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java­. ­(Jˆ
-…
-
-D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java¬ ¬(
-%2"
-__annotate*
-java.lang.Override*9
-7
-handler,com.google.gwt.event.dom.client.ClickHandlerò
-ï
-
-D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java­B ­(I7
-handler,com.google.gwt.event.dom.client.ClickHandler"__annotation*
-
-%2*
-1*
-1
-D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java® ®(í
-ê
-
-D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java®& ®(:3
-%0-com.google.gwt.event.dom.client.DomEvent$Type"ccom.google.gwt.event.dom.client.ClickEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*.",
-*com.google.gwt.event.dom.client.ClickEventš
-
-D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java® ®(;5
-%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*$"
- org.gwtbootstrap3.client.ui.Icon*9
-7
-handler,com.google.gwt.event.dom.client.ClickHandler*5
-3
-%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"Ù
-
-D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java® ®(<7
-5
-%1/com.google.gwt.event.shared.HandlerRegistration:7
-handler,com.google.gwt.event.dom.client.ClickHandlerB$"
- org.gwtbootstrap3.client.ui.Icon>>>>>>> .r13

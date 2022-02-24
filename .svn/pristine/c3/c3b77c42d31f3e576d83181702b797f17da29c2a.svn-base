@@ -1,20 +1,0 @@
-
-5org.gwtbootstrap3.client.ui.ModalHeader#isClosable()Zã
-ÄC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ModalHeader.javaE E("1*ü
-1ã
-ÄC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ModalHeader.javaF F(ê
-ç
-ã
-ÄC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ModalHeader.javaF F(9
-%03org.gwtbootstrap3.client.ui.base.button.CloseButton"__id*<*:)
-'org.gwtbootstrap3.client.ui.ModalHeader"
-closeButtonﬂ‹
-ã
-ÄC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ModalHeader.javaF F(&*
-%1$com.google.gwt.user.client.ui.Widget"Vcom.google.gwt.user.client.ui.Widget#getParent()Lcom/google/gwt/user/client/ui/Widget;*;
-9
-%03org.gwtbootstrap3.client.ui.base.button.CloseButton2getParent()"ñ
-ã
-ÄC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ModalHeader.javaF F(/
-""B+)
-'org.gwtbootstrap3.client.ui.ModalHeader

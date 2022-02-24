@@ -1,19 +1,0 @@
-
-9org.gwtbootstrap3.client.ui.CheckBoxButton#isIconPulse()Zê
-ÉC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java… …("1*ç
-1ê
-ÉC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java   (Ã
-…
-ê
-ÉC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java   (&
-%0 org.gwtbootstrap3.client.ui.Icon"\org.gwtbootstrap3.client.ui.CheckBoxButton#getActualIcon()Lorg/gwtbootstrap3/client/ui/Icon;*.,
-*org.gwtbootstrap3.client.ui.CheckBoxButtonáÑ
-ê
-ÉC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java   ((
-%1boolean"+org.gwtbootstrap3.client.ui.Icon#isPulse()Z*(
-&
-%0 org.gwtbootstrap3.client.ui.Icon2	isPulse()"õ
-ê
-ÉC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java   ()
-""B.,
-*org.gwtbootstrap3.client.ui.CheckBoxButton

@@ -1,60 +1,0 @@
-
-<<<<<<< .mine
-Qorg.gwtbootstrap3.client.ui.gwt.DataGrid$StyleAdapter#getName()Ljava/lang/String;Ž
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/DataGrid.javaÚ Ú("1*ÿ
-1Ž
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/DataGrid.javaÛ Û(º
-·
-Ž
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/DataGrid.javaÛ Û(
-%0java.lang.String"__id*
-"""«
-Ž
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/DataGrid.javaÛ Û(
-
-%0java.lang.StringB97
-5org.gwtbootstrap3.client.ui.gwt.DataGrid$StyleAdapter||||||| .r11
-org.gwtbootstrap3.client.ui.ScrollSpy#scrollSpy(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/ScrollSpy;ˆ
-~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javal l(%"1*ª
-1ˆ
-~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javam m("âß
-ˆ
-~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javam m(+
-%0%org.gwtbootstrap3.client.ui.ScrollSpy"%org.gwtbootstrap3.client.ui.ScrollSpy÷
-ô
-ˆ
-~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javam m(-
-%1"dorg.gwtbootstrap3.client.ui.ScrollSpy#<init>(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;)V*-
-+
-%0%org.gwtbootstrap3.client.ui.ScrollSpy*,
-*
-spyOn!com.google.gwt.dom.client.Element*
-
-selectorjava.lang.String"º
-ˆ
-~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javam m(.-
-+
-%0%org.gwtbootstrap3.client.ui.ScrollSpy:*
-spyOn!com.google.gwt.dom.client.Element:
-selectorjava.lang.StringB)"'
-%org.gwtbootstrap3.client.ui.ScrollSpy=======
-Corg.gwtbootstrap3.client.ui.gwt.FlowPanel#getId()Ljava/lang/String;¤
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/FlowPanel.javaS S("1*ã
-1¤
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/FlowPanel.javaT T(¢
-Ÿ
-¤
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/FlowPanel.javaT T(4
-%0.org.gwtbootstrap3.client.ui.base.mixin.IdMixin"__id*:*8+
-)org.gwtbootstrap3.client.ui.gwt.FlowPanel"	
-idMixinÍÊ
-¤
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/FlowPanel.javaT T(
-%1java.lang.String"Horg.gwtbootstrap3.client.ui.base.mixin.IdMixin#getId()Ljava/lang/String;*6
-4
-%0.org.gwtbootstrap3.client.ui.base.mixin.IdMixin2getId()"Á
-¤
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/FlowPanel.javaT T(
-
-%1java.lang.StringB-+
-)org.gwtbootstrap3.client.ui.gwt.FlowPanel>>>>>>> .r13

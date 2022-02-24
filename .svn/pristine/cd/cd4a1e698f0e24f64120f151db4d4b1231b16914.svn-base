@@ -1,16 +1,0 @@
-
-horg.gwtbootstrap3.client.shared.event.AlertCloseEvent#getNativeEvent()Lcom/google/gwt/user/client/Event;•
-ŠC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/AlertCloseEvent.java+ +("1*ø
-1•
-ŠC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/AlertCloseEvent.java, ,(•
-’
-•
-ŠC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/AlertCloseEvent.java, ,(&
-%0 com.google.gwt.user.client.Event"__id*J*H7
-5org.gwtbootstrap3.client.shared.event.AlertCloseEvent"
-nativeEvent"Â
-•
-ŠC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/AlertCloseEvent.java, ,((
-&
-%0 com.google.gwt.user.client.EventB97
-5org.gwtbootstrap3.client.shared.event.AlertCloseEvent

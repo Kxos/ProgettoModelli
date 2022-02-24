@@ -1,20 +1,0 @@
-
-horg.gwtbootstrap3.client.ui.CheckBoxButton#getIconSize()Lorg/gwtbootstrap3/client/ui/constants/IconSize;‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java‹ ‹("1*ÿ
-1‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.javaŒ Œ(Ç
-Ä
-‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.javaŒ Œ(&
-%0 org.gwtbootstrap3.client.ui.Icon"\org.gwtbootstrap3.client.ui.CheckBoxButton#getActualIcon()Lorg/gwtbootstrap3/client/ui/Icon;*.,
-*org.gwtbootstrap3.client.ui.CheckBoxButtonØÕ
-‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.javaŒ Œ((4
-%1.org.gwtbootstrap3.client.ui.constants.IconSize"Zorg.gwtbootstrap3.client.ui.Icon#getSize()Lorg/gwtbootstrap3/client/ui/constants/IconSize;*(
-&
-%0 org.gwtbootstrap3.client.ui.Icon2	getSize()"Æ
-‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.javaŒ Œ()6
-4
-%1.org.gwtbootstrap3.client.ui.constants.IconSizeB.,
-*org.gwtbootstrap3.client.ui.CheckBoxButton

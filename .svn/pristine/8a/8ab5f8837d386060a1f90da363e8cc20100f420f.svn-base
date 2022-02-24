@@ -1,46 +1,0 @@
-
-Borg.gwtbootstrap3.client.ui.CheckBox#getValue()Ljava/lang/Boolean;¡
-”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java   ("3*¡
-2¡
-”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¢ ¢(”
-‘
-¡
-”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¢ ¢(,
-%1&com.google.gwt.dom.client.InputElement"__id*7*5&
-$org.gwtbootstrap3.client.ui.CheckBox"
-	inputElem¨¥
-¡
-”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¢ ¢((
-%2boolean"3com.google.gwt.dom.client.InputElement#isChecked()Z*.
-,
-%1&com.google.gwt.dom.client.InputElement2isChecked()"µ
-¡
-”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¢ ¢()
-
-%2boolean*Ô
-3¡
-”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¡ ¡(¢Ÿ
-¡
-”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¡ ¡(
-%0boolean"2com.google.gwt.user.client.ui.Widget#isAttached()Z*(&
-$org.gwtbootstrap3.client.ui.CheckBox2isAttached()*
-2
-1*¯
-1¡
-”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¤ ¤(”
-‘
-¡
-”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¤ ¤(,
-%3&com.google.gwt.dom.client.InputElement"__id*7*5&
-$org.gwtbootstrap3.client.ui.CheckBox"
-	inputElem¶³
-¡
-”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¤ ¤(/
-%4boolean":com.google.gwt.dom.client.InputElement#isDefaultChecked()Z*.
-,
-%3&com.google.gwt.dom.client.InputElement2isDefaultChecked()"µ
-¡
-”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¤ ¤(0
-
-%4booleanB(&
-$org.gwtbootstrap3.client.ui.CheckBox

@@ -1,27 +1,0 @@
-
->org.gwtbootstrap3.client.ui.Anchor#getHref()Ljava/lang/String;á
-{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java≈ ≈("1*∏
-
-1á
-{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java∆ ∆(∆√
-á
-{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java∆  ∆(,(
-%0"com.google.gwt.user.client.Element"Wcom.google.gwt.user.client.ui.UIObject#getElement()Lcom/google/gwt/user/client/Element;*&$
-"org.gwtbootstrap3.client.ui.Anchor2getElement()è
-å
-á
-{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java∆ ∆(--
-%1'com.google.gwt.dom.client.AnchorElement"xcom.google.gwt.dom.client.AnchorElement#as(Lcom/google/gwt/dom/client/Element;)Lcom/google/gwt/dom/client/AnchorElement;*+")
-'com.google.gwt.dom.client.AnchorElement**
-(
-%0"com.google.gwt.user.client.Element¶£
-á
-{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java∆ ∆(7
-%2java.lang.String"Ccom.google.gwt.dom.client.AnchorElement#getHref()Ljava/lang/String;*/
--
-%1'com.google.gwt.dom.client.AnchorElement2	getHref()"§
-á
-{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java∆ ∆(8
-
-%2java.lang.StringB&$
-"org.gwtbootstrap3.client.ui.Anchor

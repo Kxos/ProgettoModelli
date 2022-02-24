@@ -1,21 +1,0 @@
-
-dorg.gwtbootstrap3.client.ui.AnchorButton#getAnchorElement()Lcom/google/gwt/dom/client/AnchorElement;á
-}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/AnchorButton.javau u(*"1*¨
-1á
-}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/AnchorButton.javav v(Ã…
-á
-}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/AnchorButton.javav  v(,(
-%0"com.google.gwt.user.client.Element"Wcom.google.gwt.user.client.ui.UIObject#getElement()Lcom/google/gwt/user/client/Element;*,*
-(org.gwtbootstrap3.client.ui.AnchorButton2getElement()è
-å
-á
-}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/AnchorButton.javav v(--
-%1'com.google.gwt.dom.client.AnchorElement"xcom.google.gwt.dom.client.AnchorElement#as(Lcom/google/gwt/dom/client/Element;)Lcom/google/gwt/dom/client/AnchorElement;*+")
-'com.google.gwt.dom.client.AnchorElement**
-(
-%0"com.google.gwt.user.client.Element"ª
-á
-}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/AnchorButton.javav v(./
--
-%1'com.google.gwt.dom.client.AnchorElementB,*
-(org.gwtbootstrap3.client.ui.AnchorButton

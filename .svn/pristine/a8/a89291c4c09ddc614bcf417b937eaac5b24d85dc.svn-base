@@ -1,20 +1,0 @@
-
-1org.gwtbootstrap3.client.ui.Anchor#getTabIndex()IŸ
-’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÿ ÿ("1*À
-1Ÿ
-’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java€ €(¤
-¡
-Ÿ
-’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java€ €(;
-%05org.gwtbootstrap3.client.ui.base.mixin.FocusableMixin"__id*:*8$
-"org.gwtbootstrap3.client.ui.Anchor"
-focusableMixinÄÁ
-Ÿ
-’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java€ €(+	
-%1int"Dorg.gwtbootstrap3.client.ui.base.mixin.FocusableMixin#getTabIndex()I*=
-;
-%05org.gwtbootstrap3.client.ui.base.mixin.FocusableMixin2getTabIndex()"ª
-Ÿ
-’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java€ €(,
-""B&$
-"org.gwtbootstrap3.client.ui.Anchor

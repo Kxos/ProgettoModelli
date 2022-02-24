@@ -1,16 +1,0 @@
-
-horg.gwtbootstrap3.client.shared.event.TooltipHideEvent#getTooltip()Lorg/gwtbootstrap3/client/ui/Tooltip;±
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHideEvent.java0 0("1*Ï
-1±
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHideEvent.java1 1(±
-®
-±
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHideEvent.java1 1()
-%0#org.gwtbootstrap3.client.ui.Tooltip"__id*G*E8
-6org.gwtbootstrap3.client.shared.event.TooltipHideEvent"	
-tooltip"á
-±
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHideEvent.java1 1(+
-)
-%0#org.gwtbootstrap3.client.ui.TooltipB:8
-6org.gwtbootstrap3.client.shared.event.TooltipHideEvent

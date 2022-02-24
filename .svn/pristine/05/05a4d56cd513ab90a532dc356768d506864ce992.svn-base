@@ -1,21 +1,0 @@
-
-`org.gwtbootstrap3.client.ui.Anchor#getIconSize()Lorg/gwtbootstrap3/client/ui/constants/IconSize;Ÿ
-’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÅ Å("1*Æ
-1Ÿ
-’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÆ Æ(¢
-Ÿ
-Ÿ
-’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÆ Æ(:
-%04org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin"__id*9*7$
-"org.gwtbootstrap3.client.ui.Anchor"
-iconTextMixinœ™
-Ÿ
-’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÆ Æ(*4
-%1.org.gwtbootstrap3.client.ui.constants.IconSize"rorg.gwtbootstrap3.client.ui.base.mixin.IconTextMixin#getIconSize()Lorg/gwtbootstrap3/client/ui/constants/IconSize;*<
-:
-%04org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin2getIconSize()"Ú
-Ÿ
-’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÆ Æ(+6
-4
-%1.org.gwtbootstrap3.client.ui.constants.IconSizeB&$
-"org.gwtbootstrap3.client.ui.Anchor

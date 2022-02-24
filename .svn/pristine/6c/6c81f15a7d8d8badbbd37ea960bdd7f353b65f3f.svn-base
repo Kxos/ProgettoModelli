@@ -1,20 +1,0 @@
-
-Horg.gwtbootstrap3.client.ui.base.button.AbstractIconButton#isIconSpin()Z 
-“C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractIconButton.java’ ’("1*Ú
-1 
-“C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractIconButton.java“ “(»
-¸
- 
-“C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractIconButton.java“ “(:
-%04org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin"__id*Q*O<
-:org.gwtbootstrap3.client.ui.base.button.AbstractIconButton"
-iconTextMixinÅÂ
- 
-“C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractIconButton.java“ “()
-%1boolean"Borg.gwtbootstrap3.client.ui.base.mixin.IconTextMixin#isIconSpin()Z*<
-:
-%04org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin2isIconSpin()"«
- 
-“C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractIconButton.java“ “(*
-""B><
-:org.gwtbootstrap3.client.ui.base.button.AbstractIconButton

@@ -1,40 +1,0 @@
-
-qorg.gwtbootstrap3.client.ui.ValueListBox#removeValidator(Lorg/gwtbootstrap3/client/ui/form/validator/Validator;)Zé
-ÅC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaÆ Æ(""startingBlock*õ
-startingBlocké
-ÅC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaÆ" Æ(:É
-Ä
-é
-ÅC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.java≠ ≠(
-%2"
-__annotate*
-java.lang.Override*C
-A
-	validator4org.gwtbootstrap3.client.ui.form.validator.ValidatorÌ
-Í
-é
-ÅC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaÆ0 Æ(9A
-	validator4org.gwtbootstrap3.client.ui.form.validator.Validator"__annotation*
-
-%2*
-1*—
-1é
-ÅC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaØ Ø(û
-õ
-é
-ÅC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaØ Ø(@
-%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin"__id*@*>*
-(org.gwtbootstrap3.client.ui.ValueListBox"
-validatorMixin˝˙
-é
-ÅC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaØ Ø(8
-%1boolean"Öorg.gwtbootstrap3.client.ui.base.mixin.DefaultValidatorMixin#removeValidator(Lorg/gwtbootstrap3/client/ui/form/validator/Validator;)Z*B
-@
-%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin*C
-A
-	validator4org.gwtbootstrap3.client.ui.form.validator.Validator2GremoveValidator(Lorg/gwtbootstrap3/client/ui/form/validator/Validator;)"ô
-é
-ÅC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaØ Ø(9
-"":A
-	validator4org.gwtbootstrap3.client.ui.form.validator.ValidatorB,*
-(org.gwtbootstrap3.client.ui.ValueListBox

@@ -1,20 +1,0 @@
-
-1org.gwtbootstrap3.client.ui.Anchor#getTabIndex()Iƒ
-wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÿ ÿ("1*Ð
-1ƒ
-wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java€ €(ˆ
-…
-ƒ
-wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java€ €(;
-%05org.gwtbootstrap3.client.ui.base.mixin.FocusableMixin"__id*:*8$
-"org.gwtbootstrap3.client.ui.Anchor"
-focusableMixin¨¥
-ƒ
-wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java€ €(+	
-%1int"Dorg.gwtbootstrap3.client.ui.base.mixin.FocusableMixin#getTabIndex()I*=
-;
-%05org.gwtbootstrap3.client.ui.base.mixin.FocusableMixin2getTabIndex()"Ž
-ƒ
-wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java€ €(,
-""B&$
-"org.gwtbootstrap3.client.ui.Anchor

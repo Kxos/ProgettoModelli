@@ -1,60 +1,0 @@
-
-<<<<<<< .mine
-porg.gwtbootstrap3.client.ui.Pagination#getPaginationSize()Lorg/gwtbootstrap3/client/ui/constants/PaginationSize;‰
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java9 9(+"1*¼
-1‰
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java: :(¬©
-‰
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java:, :(:
-%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;**(
-&org.gwtbootstrap3.client.ui.Pagination2getStyleName()®
-«
-‰
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java: :(;:
-%14org.gwtbootstrap3.client.ui.constants.PaginationSize"Œorg.gwtbootstrap3.client.ui.constants.PaginationSize#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/PaginationSize;*8"6
-4org.gwtbootstrap3.client.ui.constants.PaginationSize*
-
-%0java.lang.String"Ê
-‰
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java: :(<<
-:
-%14org.gwtbootstrap3.client.ui.constants.PaginationSizeB*(
-&org.gwtbootstrap3.client.ui.Pagination||||||| .r11
-8org.gwtbootstrap3.client.ui.ThumbnailLink#getTabIndex()I
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaŸ Ÿ("1*‡
-1
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java   (›
-˜
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java   (;
-%05org.gwtbootstrap3.client.ui.base.mixin.FocusableMixin"__id*A*?+
-)org.gwtbootstrap3.client.ui.ThumbnailLink"
-focusableMixin´±
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java   (+	
-%1int"Dorg.gwtbootstrap3.client.ui.base.mixin.FocusableMixin#getTabIndex()I*=
-;
-%05org.gwtbootstrap3.client.ui.base.mixin.FocusableMixin2getTabIndex()"š
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java   (,
-""B-+
-)org.gwtbootstrap3.client.ui.ThumbnailLink=======
-8org.gwtbootstrap3.client.ui.ThumbnailLink#getTabIndex()I¦
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaŸ Ÿ("1*ã
-1¦
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java   (²
-¯
-¦
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java   (;
-%05org.gwtbootstrap3.client.ui.base.mixin.FocusableMixin"__id*A*?+
-)org.gwtbootstrap3.client.ui.ThumbnailLink"
-focusableMixinËÈ
-¦
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java   (+	
-%1int"Dorg.gwtbootstrap3.client.ui.base.mixin.FocusableMixin#getTabIndex()I*=
-;
-%05org.gwtbootstrap3.client.ui.base.mixin.FocusableMixin2getTabIndex()"±
-¦
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java   (,
-""B-+
-)org.gwtbootstrap3.client.ui.ThumbnailLink>>>>>>> .r13

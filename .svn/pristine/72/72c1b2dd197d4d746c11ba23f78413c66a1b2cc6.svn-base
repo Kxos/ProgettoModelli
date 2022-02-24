@@ -1,42 +1,0 @@
-
-–org.gwtbootstrap3.client.ui.Label#addMouseUpHandler(Lcom/google/gwt/event/dom/client/MouseUpHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;„
-zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javaw w(0"startingBlock*í
-startingBlock„
-zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javaw0 w(Nñ
-î
-„
-zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javav v(
-%2"
-__annotate*
-java.lang.Override*;
-9
-handler.com.google.gwt.event.dom.client.MouseUpHandlerÛ
-Ø
-„
-zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javawF w(M9
-handler.com.google.gwt.event.dom.client.MouseUpHandler"__annotation*
-
-%2*
-1*²
-
-1„
-zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javax x(Ø
-Õ
-„
-zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javax& x(<3
-%0-com.google.gwt.event.dom.client.DomEvent$Type"ecom.google.gwt.event.dom.client.MouseUpEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*0".
-,com.google.gwt.event.dom.client.MouseUpEvent‡„
-„
-zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javax x(=5
-%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*%#
-!org.gwtbootstrap3.client.ui.Label*;
-9
-handler.com.google.gwt.event.dom.client.MouseUpHandler*5
-3
-%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"À
-„
-zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javax x(>7
-5
-%1/com.google.gwt.event.shared.HandlerRegistration:9
-handler.com.google.gwt.event.dom.client.MouseUpHandlerB%#
-!org.gwtbootstrap3.client.ui.Label

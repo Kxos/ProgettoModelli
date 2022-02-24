@@ -1,20 +1,0 @@
-
-@org.gwtbootstrap3.client.ui.base.ValueBoxBaseUi#getAllowBlank()Z•
-ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.java¦ ¦( "1*¼
-1•
-ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.java§ §(¬
-©
-•
-ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.java§ §(@
-%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin"__id*G*E1
-/org.gwtbootstrap3.client.ui.base.ValueBoxBaseUi"
-validatorMixinÌÉ
-•
-ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.java§ §(-
-%1boolean"Korg.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin#getAllowBlank()Z*B
-@
-%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin2getAllowBlank()" 
-•
-ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.java§ §(.
-""B31
-/org.gwtbootstrap3.client.ui.base.ValueBoxBaseUi

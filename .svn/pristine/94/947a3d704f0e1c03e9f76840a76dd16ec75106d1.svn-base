@@ -1,68 +1,0 @@
-
-<<<<<<< .mine
-Torg.gwtbootstrap3.client.ui.constants.ValidationState#getCssName()Ljava/lang/String;™
-ŽC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ValidationState.java, ,("1*á
-1™
-ŽC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ValidationState.java- -(†
-ƒ
-™
-ŽC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ValidationState.java- -(
-%0java.lang.String"__id*G*E7
-5org.gwtbootstrap3.client.ui.constants.ValidationState"
-
-cssClass"¶
-™
-ŽC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ValidationState.java- -(
-
-%0java.lang.StringB97
-5org.gwtbootstrap3.client.ui.constants.ValidationState||||||| .r11
-‚org.gwtbootstrap3.client.ui.constants.ImageType#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/ImageType;“
-ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java/ /()"1*Á
-1“
-ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java0 0(Þ
-Û
-“
-ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java0D 0(K5
-%0/org.gwtbootstrap3.client.ui.constants.ImageType"__id*
-""ò
-ï
-“
-ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java0 0(L5
-%1/org.gwtbootstrap3.client.ui.constants.ImageType"…org.gwtbootstrap3.client.ui.base.helper.EnumHelper#fromStyleName(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Enum;)Ljava/lang/Enum;*6"4
-2org.gwtbootstrap3.client.ui.base.helper.EnumHelper*
-
-	styleNamejava.lang.String*
-""*7
-5
-%0/org.gwtbootstrap3.client.ui.constants.ImageType"Ï
-“
-ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java0 0(M7
-5
-%1/org.gwtbootstrap3.client.ui.constants.ImageType:
-	styleNamejava.lang.StringB3"1
-/org.gwtbootstrap3.client.ui.constants.ImageType=======
-‚org.gwtbootstrap3.client.ui.constants.ImageType#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/ImageType;ª
-ŸD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java/ /()"1*	
-1ª
-ŸD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java0 0(õ
-ò
-ª
-ŸD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java0D 0(K5
-%0/org.gwtbootstrap3.client.ui.constants.ImageType"__id*
-""‰
-†
-ª
-ŸD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java0 0(L5
-%1/org.gwtbootstrap3.client.ui.constants.ImageType"…org.gwtbootstrap3.client.ui.base.helper.EnumHelper#fromStyleName(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Enum;)Ljava/lang/Enum;*6"4
-2org.gwtbootstrap3.client.ui.base.helper.EnumHelper*
-
-	styleNamejava.lang.String*
-""*7
-5
-%0/org.gwtbootstrap3.client.ui.constants.ImageType"æ
-ª
-ŸD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java0 0(M7
-5
-%1/org.gwtbootstrap3.client.ui.constants.ImageType:
-	styleNamejava.lang.StringB3"1
-/org.gwtbootstrap3.client.ui.constants.ImageType>>>>>>> .r13

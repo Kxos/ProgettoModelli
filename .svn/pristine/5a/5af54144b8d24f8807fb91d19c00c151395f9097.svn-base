@@ -1,21 +1,0 @@
-
-4org.gwtbootstrap3.client.ui.ValueListBox#validate()Z‰
-}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaÍ Í("1*ý
-1‰
-}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaÎ Î(™
-–
-‰
-}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaÎ Î(@
-%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin"__id*@*>*
-(org.gwtbootstrap3.client.ui.ValueListBox"
-validatorMixin¸µ
-‰
-}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaÎ Î((
-%1boolean"Horg.gwtbootstrap3.client.ui.base.mixin.DefaultValidatorMixin#validate()Z*B
-@
-%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin2
-validate()"”
-‰
-}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaÎ Î()
-""B,*
-(org.gwtbootstrap3.client.ui.ValueListBox

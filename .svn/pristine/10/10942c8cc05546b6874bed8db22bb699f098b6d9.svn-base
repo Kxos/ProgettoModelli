@@ -1,54 +1,0 @@
-
-<<<<<<< .mine
-£org.gwtbootstrap3.client.ui.NavbarCollapse#addHiddenHandler(Lorg/gwtbootstrap3/client/shared/event/HiddenHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;
-ƒC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/NavbarCollapse.java‰ ‰(/"1*æ
-
-1
-ƒC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/NavbarCollapse.javaŠ Š(æ
-ã
-
-ƒC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/NavbarCollapse.javaŠ) Š(>/
-%0)com.google.gwt.event.shared.GwtEvent$Type"forg.gwtbootstrap3.client.shared.event.HiddenEvent#getType()Lcom/google/gwt/event/shared/GwtEvent$Type;*5"3
-1org.gwtbootstrap3.client.shared.event.HiddenEvent•’
-
-ƒC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/NavbarCollapse.javaŠ Š(?5
-%1/com.google.gwt.event.shared.HandlerRegistration"·com.google.gwt.user.client.ui.Widget#addHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*.,
-*org.gwtbootstrap3.client.ui.NavbarCollapse*F
-D
-hiddenHandler3org.gwtbootstrap3.client.shared.event.HiddenHandler*1
-/
-%0)com.google.gwt.event.shared.GwtEvent$Type2aaddHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)"Ì
-
-ƒC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/NavbarCollapse.javaŠ Š(@7
-5
-%1/com.google.gwt.event.shared.HandlerRegistration:D
-hiddenHandler3org.gwtbootstrap3.client.shared.event.HiddenHandlerB.,
-*org.gwtbootstrap3.client.ui.NavbarCollapse||||||| .r11
-?org.gwtbootstrap3.client.ui.Heading#getText()Ljava/lang/String;ˆ
-|C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java“ “("1*Ó
-1ˆ
-|C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java” ”(ô
-ñ
-ˆ
-|C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java” ”(+
-%0%org.gwtbootstrap3.client.ui.html.Text"__id*1*/%
-#org.gwtbootstrap3.client.ui.Heading"
-text£ 
-ˆ
-|C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java” ”(
-%1java.lang.String"Aorg.gwtbootstrap3.client.ui.html.Text#getText()Ljava/lang/String;*-
-+
-%0%org.gwtbootstrap3.client.ui.html.Text2	getText()"¥
-ˆ
-|C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java” ”(
-
-%1java.lang.StringB'%
-#org.gwtbootstrap3.client.ui.Heading=======
-Borg.gwtbootstrap3.client.ui.base.AbstractTooltip#getShowDelayMs()I­
- D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.javaÇ Ç("1*î
-1­
- D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.javaÈ È("¸
-­
- D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.javaÈ È(
-""B42
-0org.gwtbootstrap3.client.ui.base.AbstractTooltip>>>>>>> .r13

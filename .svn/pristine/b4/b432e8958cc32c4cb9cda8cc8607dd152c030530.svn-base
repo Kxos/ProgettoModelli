@@ -1,16 +1,0 @@
-
-horg.gwtbootstrap3.client.shared.event.ModalShownEvent#getNativeEvent()Lcom/google/gwt/user/client/Event;°
-¥D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalShownEvent.java5 5("1*É
-1°
-¥D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalShownEvent.java6 6(°
-­
-°
-¥D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalShownEvent.java6 6(&
-%0 com.google.gwt.user.client.Event"__id*J*H7
-5org.gwtbootstrap3.client.shared.event.ModalShownEvent"
-nativeEvent"Ý
-°
-¥D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalShownEvent.java6 6((
-&
-%0 com.google.gwt.user.client.EventB97
-5org.gwtbootstrap3.client.shared.event.ModalShownEvent

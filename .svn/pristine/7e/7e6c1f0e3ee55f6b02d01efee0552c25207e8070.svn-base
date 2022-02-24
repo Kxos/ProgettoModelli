@@ -1,25 +1,0 @@
-
-çorg.gwtbootstrap3.client.ui.ScrollSpy#scrollSpy(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/ScrollSpy;Ñ
-zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javal l(%"1*ö
-1Ñ
-zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javam m("ﬁ€
-Ñ
-zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javam m(+
-%0%org.gwtbootstrap3.client.ui.ScrollSpy"%org.gwtbootstrap3.client.ui.ScrollSpyÛ
-
-Ñ
-zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javam m(-
-%1"dorg.gwtbootstrap3.client.ui.ScrollSpy#<init>(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;)V*-
-+
-%0%org.gwtbootstrap3.client.ui.ScrollSpy*,
-*
-spyOn!com.google.gwt.dom.client.Element*
-
-selectorjava.lang.String"∂
-Ñ
-zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javam m(.-
-+
-%0%org.gwtbootstrap3.client.ui.ScrollSpy:*
-spyOn!com.google.gwt.dom.client.Element:
-selectorjava.lang.StringB)"'
-%org.gwtbootstrap3.client.ui.ScrollSpy

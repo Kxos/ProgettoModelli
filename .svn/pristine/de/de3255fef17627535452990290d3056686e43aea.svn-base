@@ -1,63 +1,0 @@
-
-<<<<<<< .mine
-Corg.gwtbootstrap3.client.ui.TabListItem#getHTML()Ljava/lang/String;ç
-ÄC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabListItem.javaÀ À("1*‰
-1ç
-ÄC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabListItem.javaÃ Ã(¸
-˘
-ç
-ÄC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabListItem.javaÃ Ã((
-%0"org.gwtbootstrap3.client.ui.Anchor"__id*7*5)
-'org.gwtbootstrap3.client.ui.TabListItem"
-anchor¢ü
-ç
-ÄC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabListItem.javaÃ Ã(
-%1java.lang.String">org.gwtbootstrap3.client.ui.Anchor#getHTML()Ljava/lang/String;**
-(
-%0"org.gwtbootstrap3.client.ui.Anchor2	getHTML()"™
-ç
-ÄC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabListItem.javaÃ Ã( 
-
-%1java.lang.StringB+)
-'org.gwtbootstrap3.client.ui.TabListItem||||||| .r11
-Éorg.gwtbootstrap3.client.ui.gwt.CellTable$ResourcesAdapter#cellTableSortDescending()Lcom/google/gwt/resources/client/ImageResource;è
-ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/CellTable.java€ €(4"1*π
-1è
-ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/CellTable.java‹ ‹(©
-¶
-è
-ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/CellTable.java‹ ‹(=
-%07com.google.gwt.user.cellview.client.CellTable$Resources"__id*M*K<
-:org.gwtbootstrap3.client.ui.gwt.CellTable$ResourcesAdapter"
-	resources©¶
-è
-ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/CellTable.java‹ ‹(63
-%1-com.google.gwt.resources.client.ImageResource"Äcom.google.gwt.user.cellview.client.CellTable$Resources#cellTableSortDescending()Lcom/google/gwt/resources/client/ImageResource;*?
-=
-%07com.google.gwt.user.cellview.client.CellTable$Resources2cellTableSortDescending()"…
-è
-ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/CellTable.java‹ ‹(75
-3
-%1-com.google.gwt.resources.client.ImageResourceB><
-:org.gwtbootstrap3.client.ui.gwt.CellTable$ResourcesAdapter=======
-Eorg.gwtbootstrap3.client.ui.CheckBox#getFormValue()Ljava/lang/String;°
-îD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¯ ¯("1*¬
-1°
-îD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java˘ ˘(î
-ë
-°
-îD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java˘ ˘(,
-%0&com.google.gwt.dom.client.InputElement"__id*7*5&
-$org.gwtbootstrap3.client.ui.CheckBox"
-	inputElem¿Ω
-°
-îD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java˘ ˘(#
-%1java.lang.String"Ccom.google.gwt.dom.client.InputElement#getValue()Ljava/lang/String;*.
-,
-%0&com.google.gwt.dom.client.InputElement2
-getValue()"æ
-°
-îD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java˘ ˘($
-
-%1java.lang.StringB(&
-$org.gwtbootstrap3.client.ui.CheckBox>>>>>>> .r13

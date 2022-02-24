@@ -1,27 +1,0 @@
-
-Eorg.gwtbootstrap3.client.ui.ThumbnailLink#getHref()Ljava/lang/String;ç
-ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javau u("1*›
-
-1ç
-ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javav v(”–
-ç
-ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javav  v(,(
-%0"com.google.gwt.user.client.Element"Wcom.google.gwt.user.client.ui.UIObject#getElement()Lcom/google/gwt/user/client/Element;*-+
-)org.gwtbootstrap3.client.ui.ThumbnailLink2getElement()ï
-í
-ç
-ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javav v(--
-%1'com.google.gwt.dom.client.AnchorElement"xcom.google.gwt.dom.client.AnchorElement#as(Lcom/google/gwt/dom/client/Element;)Lcom/google/gwt/dom/client/AnchorElement;*+")
-'com.google.gwt.dom.client.AnchorElement**
-(
-%0"com.google.gwt.user.client.Element¨©
-ç
-ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javav v(7
-%2java.lang.String"Ccom.google.gwt.dom.client.AnchorElement#getHref()Ljava/lang/String;*/
--
-%1'com.google.gwt.dom.client.AnchorElement2	getHref()"™
-ç
-ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javav v(8
-
-%2java.lang.StringB-+
-)org.gwtbootstrap3.client.ui.ThumbnailLink

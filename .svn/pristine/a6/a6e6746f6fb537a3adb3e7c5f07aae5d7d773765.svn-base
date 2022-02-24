@@ -1,41 +1,0 @@
-
-†org.gwtbootstrap3.client.ui.SimpleRadioButton#addChangeHandler(Lcom/google/gwt/event/dom/client/ChangeHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;®
-ùD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleRadioButton.javap p(/"startingBlock*◊
-startingBlock®
-ùD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleRadioButton.javap/ p(Fî
-ë
-®
-ùD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleRadioButton.javao o(
-%2"
-__annotate*
-java.lang.Override*:
-8
-handler-com.google.gwt.event.dom.client.ChangeHandler˛
-˚
-®
-ùD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleRadioButton.javap> p(E8
-handler-com.google.gwt.event.dom.client.ChangeHandler"__annotation*
-
-%2*
-1*À
-1®
-ùD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleRadioButton.javaq q(˙
-˜
-®
-ùD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleRadioButton.javaq& q(;3
-%0-com.google.gwt.event.dom.client.DomEvent$Type"dcom.google.gwt.event.dom.client.ChangeEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*/"-
-+com.google.gwt.event.dom.client.ChangeEvent∂≥
-®
-ùD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleRadioButton.javaq q(<5
-%1/com.google.gwt.event.shared.HandlerRegistration"æcom.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*1/
--org.gwtbootstrap3.client.ui.SimpleRadioButton*:
-8
-handler-com.google.gwt.event.dom.client.ChangeHandler*5
-3
-%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"‰
-®
-ùD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleRadioButton.javaq q(=7
-5
-%1/com.google.gwt.event.shared.HandlerRegistration:8
-handler-com.google.gwt.event.dom.client.ChangeHandlerB1/
--org.gwtbootstrap3.client.ui.SimpleRadioButton

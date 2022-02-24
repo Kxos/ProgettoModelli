@@ -1,20 +1,0 @@
-
-lorg.gwtbootstrap3.client.ui.CheckBoxButton#getIconRotate()Lorg/gwtbootstrap3/client/ui/constants/IconRotate;‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.javaŸ Ÿ(#"1*‰
-1‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java   (Ç
-Ä
-‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java   (&
-%0 org.gwtbootstrap3.client.ui.Icon"\org.gwtbootstrap3.client.ui.CheckBoxButton#getActualIcon()Lorg/gwtbootstrap3/client/ui/Icon;*.,
-*org.gwtbootstrap3.client.ui.CheckBoxButtonàÝ
-‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java   (*6
-%10org.gwtbootstrap3.client.ui.constants.IconRotate"^org.gwtbootstrap3.client.ui.Icon#getRotate()Lorg/gwtbootstrap3/client/ui/constants/IconRotate;*(
-&
-%0 org.gwtbootstrap3.client.ui.Icon2getRotate()"È
-‹
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java   (+8
-6
-%10org.gwtbootstrap3.client.ui.constants.IconRotateB.,
-*org.gwtbootstrap3.client.ui.CheckBoxButton

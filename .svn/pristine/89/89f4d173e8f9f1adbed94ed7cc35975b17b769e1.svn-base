@@ -1,30 +1,0 @@
-
-¨org.gwtbootstrap3.client.ui.ScrollSpy#scrollSpy(Lcom/google/gwt/user/client/ui/UIObject;Lorg/gwtbootstrap3/client/ui/base/HasId;)Lorg/gwtbootstrap3/client/ui/ScrollSpy; 
-•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaa a(%"1*Ÿ
-1 
-•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javab b("êç
- 
-•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javab b(/(
-%0"com.google.gwt.user.client.Element"Wcom.google.gwt.user.client.ui.UIObject#getElement()Lcom/google/gwt/user/client/Element;*1
-/
-spyOn&com.google.gwt.user.client.ui.UIObject2getElement()ú÷
- 
-•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javab b(+
-%1%org.gwtbootstrap3.client.ui.ScrollSpy"%org.gwtbootstrap3.client.ui.ScrollSpy·
-´
- 
-•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javab b(8
-%2"zorg.gwtbootstrap3.client.ui.ScrollSpy#<init>(Lcom/google/gwt/dom/client/Element;Lorg/gwtbootstrap3/client/ui/base/HasId;)V*-
-+
-%1%org.gwtbootstrap3.client.ui.ScrollSpy**
-(
-%0"com.google.gwt.user.client.Element*2
-0
-target&org.gwtbootstrap3.client.ui.base.HasId"Ò
- 
-•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javab b(9-
-+
-%1%org.gwtbootstrap3.client.ui.ScrollSpy:/
-spyOn&com.google.gwt.user.client.ui.UIObject:0
-target&org.gwtbootstrap3.client.ui.base.HasIdB)"'
-%org.gwtbootstrap3.client.ui.ScrollSpy

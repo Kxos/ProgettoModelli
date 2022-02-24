@@ -1,22 +1,0 @@
-
-Eorg.gwtbootstrap3.client.ui.CheckBox#getFormValue()Ljava/lang/String;‰
-}C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaø ø("1*â
-1‰
-}C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaù ù(ü
-ù
-‰
-}C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaù ù(,
-%0&com.google.gwt.dom.client.InputElement"__id*7*5&
-$org.gwtbootstrap3.client.ui.CheckBox"
-	inputElem¨¥
-‰
-}C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaù ù(#
-%1java.lang.String"Ccom.google.gwt.dom.client.InputElement#getValue()Ljava/lang/String;*.
-,
-%0&com.google.gwt.dom.client.InputElement2
-getValue()"¦
-‰
-}C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaù ù($
-
-%1java.lang.StringB(&
-$org.gwtbootstrap3.client.ui.CheckBox

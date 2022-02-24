@@ -1,102 +1,0 @@
-
-<<<<<<< .mine
-Eorg.gwtbootstrap3.client.ui.ListGroupItem#getText()Ljava/lang/String;
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java- -("1*í
-1
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java. .(ÿ
-ü
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java. .(+
-%0%org.gwtbootstrap3.client.ui.html.Span"__id*7*5+
-)org.gwtbootstrap3.client.ui.ListGroupItem"
-span¨¥
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java. .(
-%1java.lang.String"Aorg.gwtbootstrap3.client.ui.html.Span#getText()Ljava/lang/String;*-
-+
-%0%org.gwtbootstrap3.client.ui.html.Span2	getText()"ª
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java. .(
-
-%1java.lang.StringB-+
-)org.gwtbootstrap3.client.ui.ListGroupItem||||||| .r11
-¯org.gwtbootstrap3.client.ui.base.button.AbstractButton#addMouseDownHandler(Lcom/google/gwt/event/dom/client/MouseDownHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÕ Õ(2"startingBlock*¹
-startingBlockœ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÕ2 Õ(R‹
-ˆ
-œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÔ Ô(
-%2"
-__annotate*
-java.lang.Override*=
-;
-handler0com.google.gwt.event.dom.client.MouseDownHandlerõ
-ò
-œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÕJ Õ(Q;
-handler0com.google.gwt.event.dom.client.MouseDownHandler"__annotation*
-
-%2*
-1*­
-1œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÖ Ö(ô
-ñ
-œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÖ& Ö(>3
-%0-com.google.gwt.event.dom.client.DomEvent$Type"gcom.google.gwt.event.dom.client.MouseDownEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*2"0
-.com.google.gwt.event.dom.client.MouseDownEvent¶³
-œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÖ Ö(?5
-%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*:8
-6org.gwtbootstrap3.client.ui.base.button.AbstractButton*=
-;
-handler0com.google.gwt.event.dom.client.MouseDownHandler*5
-3
-%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"Ø
-œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÖ Ö(@7
-5
-%1/com.google.gwt.event.shared.HandlerRegistration:;
-handler0com.google.gwt.event.dom.client.MouseDownHandlerB:8
-6org.gwtbootstrap3.client.ui.base.button.AbstractButton=======
-¯org.gwtbootstrap3.client.ui.base.button.AbstractButton#addMouseDownHandler(Lcom/google/gwt/event/dom/client/MouseDownHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÕ Õ(2"startingBlock*þ
-startingBlock³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÕ2 Õ(R¢
-Ÿ
-³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÔ Ô(
-%2"
-__annotate*
-java.lang.Override*=
-;
-handler0com.google.gwt.event.dom.client.MouseDownHandlerŒ
-‰
-³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÕJ Õ(Q;
-handler0com.google.gwt.event.dom.client.MouseDownHandler"__annotation*
-
-%2*
-1*‰
-1³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÖ Ö(‹
-ˆ
-³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÖ& Ö(>3
-%0-com.google.gwt.event.dom.client.DomEvent$Type"gcom.google.gwt.event.dom.client.MouseDownEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*2"0
-.com.google.gwt.event.dom.client.MouseDownEventÍÊ
-³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÖ Ö(?5
-%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*:8
-6org.gwtbootstrap3.client.ui.base.button.AbstractButton*=
-;
-handler0com.google.gwt.event.dom.client.MouseDownHandler*5
-3
-%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"ï
-³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÖ Ö(@7
-5
-%1/com.google.gwt.event.shared.HandlerRegistration:;
-handler0com.google.gwt.event.dom.client.MouseDownHandlerB:8
-6org.gwtbootstrap3.client.ui.base.button.AbstractButton>>>>>>> .r13

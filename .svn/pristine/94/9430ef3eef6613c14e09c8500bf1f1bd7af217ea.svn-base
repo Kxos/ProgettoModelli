@@ -1,42 +1,0 @@
-
-org.gwtbootstrap3.client.ui.SimpleCheckBox#addChangeHandler(Lcom/google/gwt/event/dom/client/ChangeHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;‰
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleCheckBox.javaf f(/"startingBlock*ú
-startingBlock‰
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleCheckBox.javaf/ f(Fõ
-ò
-‰
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleCheckBox.javae e(
-%2"
-__annotate*
-java.lang.Override*:
-8
-handler-com.google.gwt.event.dom.client.ChangeHandlerß
-Ü
-‰
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleCheckBox.javaf> f(E8
-handler-com.google.gwt.event.dom.client.ChangeHandler"__annotation*
-
-%2*
-1*Ì
-
-1‰
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleCheckBox.javag g(Û
-Ø
-‰
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleCheckBox.javag& g(;3
-%0-com.google.gwt.event.dom.client.DomEvent$Type"dcom.google.gwt.event.dom.client.ChangeEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*/"-
-+com.google.gwt.event.dom.client.ChangeEvent”‘
-‰
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleCheckBox.javag g(<5
-%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*.,
-*org.gwtbootstrap3.client.ui.SimpleCheckBox*:
-8
-handler-com.google.gwt.event.dom.client.ChangeHandler*5
-3
-%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"Å
-‰
-C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SimpleCheckBox.javag g(=7
-5
-%1/com.google.gwt.event.shared.HandlerRegistration:8
-handler-com.google.gwt.event.dom.client.ChangeHandlerB.,
-*org.gwtbootstrap3.client.ui.SimpleCheckBox

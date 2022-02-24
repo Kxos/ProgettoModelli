@@ -1,16 +1,0 @@
-
-jorg.gwtbootstrap3.client.shared.event.TooltipShownEvent#getNativeEvent()Lcom/google/gwt/user/client/Event;²
-§D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipShownEvent.java5 5("1*Ñ
-1²
-§D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipShownEvent.java6 6(´
-±
-²
-§D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipShownEvent.java6 6(&
-%0 com.google.gwt.user.client.Event"__id*L*J9
-7org.gwtbootstrap3.client.shared.event.TooltipShownEvent"
-nativeEvent"ß
-²
-§D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipShownEvent.java6 6((
-&
-%0 com.google.gwt.user.client.EventB;9
-7org.gwtbootstrap3.client.shared.event.TooltipShownEvent

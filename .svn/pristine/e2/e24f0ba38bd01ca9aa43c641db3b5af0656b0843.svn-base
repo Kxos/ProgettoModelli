@@ -1,102 +1,0 @@
-
-<<<<<<< .mine
-lorg.gwtbootstrap3.client.ui.ListGroupItem#getType()Lorg/gwtbootstrap3/client/ui/constants/ListGroupItemType;
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.javaC C($"1*Þ
-1
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.javaD D( ³°
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.javaD/ D(=
-%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*-+
-)org.gwtbootstrap3.client.ui.ListGroupItem2getStyleName()¾
-»
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.javaD D(>=
-%17org.gwtbootstrap3.client.ui.constants.ListGroupItemType"’org.gwtbootstrap3.client.ui.constants.ListGroupItemType#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/ListGroupItemType;*;"9
-7org.gwtbootstrap3.client.ui.constants.ListGroupItemType*
-
-%0java.lang.String"Ñ
-
-‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.javaD D(??
-=
-%17org.gwtbootstrap3.client.ui.constants.ListGroupItemTypeB-+
-)org.gwtbootstrap3.client.ui.ListGroupItem||||||| .r11
-±org.gwtbootstrap3.client.ui.base.button.AbstractButton#addMouseWheelHandler(Lcom/google/gwt/event/dom/client/MouseWheelHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaî î(3"startingBlock*»
-startingBlockœ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaî3 î(TŒ
-‰
-œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaí í(
-%2"
-__annotate*
-java.lang.Override*>
-<
-handler1com.google.gwt.event.dom.client.MouseWheelHandlerö
-ó
-œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaîL î(S<
-handler1com.google.gwt.event.dom.client.MouseWheelHandler"__annotation*
-
-%2*
-1*°
-1œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaï ï(ö
-ó
-œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaï& ï(?3
-%0-com.google.gwt.event.dom.client.DomEvent$Type"hcom.google.gwt.event.dom.client.MouseWheelEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*3"1
-/com.google.gwt.event.dom.client.MouseWheelEvent·´
-œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaï ï(@5
-%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*:8
-6org.gwtbootstrap3.client.ui.base.button.AbstractButton*>
-<
-handler1com.google.gwt.event.dom.client.MouseWheelHandler*5
-3
-%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"Ø
-œ
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaï ï(A7
-5
-%1/com.google.gwt.event.shared.HandlerRegistration:<
-handler1com.google.gwt.event.dom.client.MouseWheelHandlerB:8
-6org.gwtbootstrap3.client.ui.base.button.AbstractButton=======
-±org.gwtbootstrap3.client.ui.base.button.AbstractButton#addMouseWheelHandler(Lcom/google/gwt/event/dom/client/MouseWheelHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaî î(3"startingBlock*€
-startingBlock³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaî3 î(T£
- 
-³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaí í(
-%2"
-__annotate*
-java.lang.Override*>
-<
-handler1com.google.gwt.event.dom.client.MouseWheelHandler
-Š
-³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaîL î(S<
-handler1com.google.gwt.event.dom.client.MouseWheelHandler"__annotation*
-
-%2*
-1*Œ
-1³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaï ï(
-Š
-³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaï& ï(?3
-%0-com.google.gwt.event.dom.client.DomEvent$Type"hcom.google.gwt.event.dom.client.MouseWheelEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*3"1
-/com.google.gwt.event.dom.client.MouseWheelEventÎË
-³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaï ï(@5
-%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*:8
-6org.gwtbootstrap3.client.ui.base.button.AbstractButton*>
-<
-handler1com.google.gwt.event.dom.client.MouseWheelHandler*5
-3
-%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"ï
-³
-¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaï ï(A7
-5
-%1/com.google.gwt.event.shared.HandlerRegistration:<
-handler1com.google.gwt.event.dom.client.MouseWheelHandlerB:8
-6org.gwtbootstrap3.client.ui.base.button.AbstractButton>>>>>>> .r13

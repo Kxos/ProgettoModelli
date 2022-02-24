@@ -1,51 +1,0 @@
-
-<<<<<<< .mine
-iorg.gwtbootstrap3.client.shared.event.AlertClosedEvent#getNativeEvent()Lcom/google/gwt/user/client/Event;š
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/AlertClosedEvent.java+ +("1*ˆ
-1š
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/AlertClosedEvent.java, ,(›
-˜
-š
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/AlertClosedEvent.java, ,(&
-%0 com.google.gwt.user.client.Event"__id*K*I8
-6org.gwtbootstrap3.client.shared.event.AlertClosedEvent"
-nativeEvent"Ç
-š
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/AlertClosedEvent.java, ,((
-&
-%0 com.google.gwt.user.client.EventB:8
-6org.gwtbootstrap3.client.shared.event.AlertClosedEvent||||||| .r11
-uorg.gwtbootstrap3.client.shared.event.TooltipHideEvent#getAssociatedType()Lcom/google/gwt/event/shared/GwtEvent$Type;š
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHideEvent.java:$ :(5"1*Õ
-1š
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHideEvent.java; ;(ß
-Ü
-š
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHideEvent.java; ;(/
-%0)com.google.gwt.event.shared.GwtEvent$Type"__id*
-"""Ð
-š
-C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHideEvent.java; ;(1
-/
-%0)com.google.gwt.event.shared.GwtEvent$TypeB:8
-6org.gwtbootstrap3.client.shared.event.TooltipHideEvent=======
-…org.gwtbootstrap3.client.ui.gwt.CellTable$ResourcesAdapter#cellTableFooterBackground()Lcom/google/gwt/resources/client/ImageResource;¦
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/CellTable.javaÂ Â(6"1*™	
-1¦
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/CellTable.javaÃ Ã(À
-½
-¦
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/CellTable.javaÃ Ã(=
-%07com.google.gwt.user.cellview.client.CellTable$Resources"__id*M*K<
-:org.gwtbootstrap3.client.ui.gwt.CellTable$ResourcesAdapter"
-	resourcesÄÁ
-¦
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/CellTable.javaÃ Ã(83
-%1-com.google.gwt.resources.client.ImageResource"‚com.google.gwt.user.cellview.client.CellTable$Resources#cellTableFooterBackground()Lcom/google/gwt/resources/client/ImageResource;*?
-=
-%07com.google.gwt.user.cellview.client.CellTable$Resources2cellTableFooterBackground()"à
-¦
-™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/CellTable.javaÃ Ã(95
-3
-%1-com.google.gwt.resources.client.ImageResourceB><
-:org.gwtbootstrap3.client.ui.gwt.CellTable$ResourcesAdapter>>>>>>> .r13
