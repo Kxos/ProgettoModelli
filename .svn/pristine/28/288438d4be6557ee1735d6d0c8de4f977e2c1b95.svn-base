@@ -1,0 +1,17 @@
+
+korg.gwtbootstrap3.client.shared.event.CarouselSlidEvent#getCarousel()Lorg/gwtbootstrap3/client/ui/Carousel;—
+ŒC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java0 0("1*…
+1—
+ŒC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java1 1(š
+—
+—
+ŒC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java1 1(*
+%0$org.gwtbootstrap3.client.ui.Carousel"__id*I*G9
+7org.gwtbootstrap3.client.shared.event.CarouselSlidEvent"
+
+carousel"È
+—
+ŒC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java1 1(,
+*
+%0$org.gwtbootstrap3.client.ui.CarouselB;9
+7org.gwtbootstrap3.client.shared.event.CarouselSlidEvent

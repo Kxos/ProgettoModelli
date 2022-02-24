@@ -1,0 +1,16 @@
+
+dorg.gwtbootstrap3.client.shared.event.ModalHiddenEvent#getModal()Lorg/gwtbootstrap3/client/ui/Modal;±
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalHiddenEvent.java0 0("1*É
+1±
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalHiddenEvent.java1 1(­
+ª
+±
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalHiddenEvent.java1 1('
+%0!org.gwtbootstrap3.client.ui.Modal"__id*E*C8
+6org.gwtbootstrap3.client.shared.event.ModalHiddenEvent"
+modal"ß
+±
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalHiddenEvent.java1 1()
+'
+%0!org.gwtbootstrap3.client.ui.ModalB:8
+6org.gwtbootstrap3.client.shared.event.ModalHiddenEvent

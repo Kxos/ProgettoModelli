@@ -1,0 +1,42 @@
+
+ìorg.gwtbootstrap3.client.ui.Anchor#addClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java} }(."startingBlock*‡
+startingBlockÅ
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java}. }(JÏ
+È
+Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java| |(
+%2"
+__annotate*
+java.lang.Override*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandler÷
+”
+Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java}B }(I7
+handler,com.google.gwt.event.dom.client.ClickHandler"__annotation*
+
+%2*
+1*°
+
+1Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java~ ~(—
+Œ
+Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java~& ~(:3
+%0-com.google.gwt.event.dom.client.DomEvent$Type"ccom.google.gwt.event.dom.client.ClickEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*.",
+*com.google.gwt.event.dom.client.ClickEventÉÄ
+Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java~ ~(;5
+%1/com.google.gwt.event.shared.HandlerRegistration"æcom.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*&$
+"org.gwtbootstrap3.client.ui.Anchor*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandler*5
+3
+%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"Ω
+Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java~ ~(<7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:7
+handler,com.google.gwt.event.dom.client.ClickHandlerB&$
+"org.gwtbootstrap3.client.ui.Anchor

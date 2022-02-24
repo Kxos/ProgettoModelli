@@ -1,0 +1,19 @@
+
+9org.gwtbootstrap3.client.ui.TextArea#getCharacterWidth()Iƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TextArea.javaT T( "1*ò
+1ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TextArea.javaU U(!Ê
+Ç
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TextArea.javaU U(#/
+%0)com.google.gwt.dom.client.TextAreaElement"dorg.gwtbootstrap3.client.ui.TextArea#getTextAreaElement()Lcom/google/gwt/dom/client/TextAreaElement;*(&
+$org.gwtbootstrap3.client.ui.TextAreaˆ…
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TextArea.javaU U(-	
+%1int"4com.google.gwt.dom.client.TextAreaElement#getCols()I*1
+/
+%0)com.google.gwt.dom.client.TextAreaElement2	getCols()"Ž
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TextArea.javaU U(.
+""B(&
+$org.gwtbootstrap3.client.ui.TextArea

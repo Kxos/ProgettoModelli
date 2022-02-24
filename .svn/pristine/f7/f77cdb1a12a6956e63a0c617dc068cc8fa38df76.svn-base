@@ -1,0 +1,21 @@
+
+xorg.gwtbootstrap3.client.ui.base.button.AbstractIconButton#getIconFlip()Lorg/gwtbootstrap3/client/ui/constants/IconFlip;ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractIconButton.javad d("1* 
+1ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractIconButton.javae e(µ
+≤
+ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractIconButton.javae e(:
+%04org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin"__id*Q*O<
+:org.gwtbootstrap3.client.ui.base.button.AbstractIconButton"
+iconTextMixinóî
+ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractIconButton.javae e(*4
+%1.org.gwtbootstrap3.client.ui.constants.IconFlip"rorg.gwtbootstrap3.client.ui.base.mixin.IconTextMixin#getIconFlip()Lorg/gwtbootstrap3/client/ui/constants/IconFlip;*<
+:
+%04org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin2getIconFlip()"’
+ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractIconButton.javae e(+6
+4
+%1.org.gwtbootstrap3.client.ui.constants.IconFlipB><
+:org.gwtbootstrap3.client.ui.base.button.AbstractIconButton

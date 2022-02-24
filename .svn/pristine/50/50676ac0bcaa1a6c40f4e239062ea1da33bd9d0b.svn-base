@@ -1,0 +1,60 @@
+
+<<<<<<< .mine
+¥org.gwtbootstrap3.client.ui.Modal#addShownHandler(Lorg/gwtbootstrap3/client/shared/event/ModalShownHandler;)Lcom/google/web/bindery/event/shared/HandlerRegistration;†
+zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Modal.javaû û(."1*Å
+
+1†
+zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Modal.javaü ü(ä
+á
+†
+zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Modal.javaü- ü(F/
+%0)com.google.gwt.event.shared.GwtEvent$Type"jorg.gwtbootstrap3.client.shared.event.ModalShownEvent#getType()Lcom/google/gwt/event/shared/GwtEvent$Type;*9"7
+5org.gwtbootstrap3.client.shared.event.ModalShownEventŠ‡
+†
+zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Modal.javaü ü(G5
+%1/com.google.gwt.event.shared.HandlerRegistration"·com.google.gwt.user.client.ui.Widget#addHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*%#
+!org.gwtbootstrap3.client.ui.Modal*N
+L
+modalShownHandler7org.gwtbootstrap3.client.shared.event.ModalShownHandler*1
+/
+%0)com.google.gwt.event.shared.GwtEvent$Type2aaddHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)"Â
+†
+zC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Modal.javaü ü(H7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:L
+modalShownHandler7org.gwtbootstrap3.client.shared.event.ModalShownHandlerB%#
+!org.gwtbootstrap3.client.ui.Modal||||||| .r11
+Rorg.gwtbootstrap3.client.ui.NavbarCollapseButton#getDataTarget()Ljava/lang/String;”
+‰C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/NavbarCollapseButton.javaO O("1*©
+1”
+‰C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/NavbarCollapseButton.javaP P(Œ
+‰
+”
+‰C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/NavbarCollapseButton.javaP P((
+%0"org.gwtbootstrap3.client.ui.Button"__id*@*>2
+0org.gwtbootstrap3.client.ui.NavbarCollapseButton"
+buttonÉÆ
+”
+‰C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/NavbarCollapseButton.javaP P(%
+%1java.lang.String"Xorg.gwtbootstrap3.client.ui.base.button.AbstractButton#getDataTarget()Ljava/lang/String;**
+(
+%0"org.gwtbootstrap3.client.ui.Button2getDataTarget()"±
+”
+‰C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/NavbarCollapseButton.javaP P(&
+
+%1java.lang.StringB42
+0org.gwtbootstrap3.client.ui.NavbarCollapseButton=======
+vorg.gwtbootstrap3.client.shared.event.CarouselSlidEvent#getAssociatedType()Lcom/google/gwt/event/shared/GwtEvent$Type;²
+§D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java:% :(6"1*
+1²
+§D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java; ;(÷
+ô
+²
+§D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java; ;(/
+%0)com.google.gwt.event.shared.GwtEvent$Type"__id*
+"""è
+²
+§D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java; ;(1
+/
+%0)com.google.gwt.event.shared.GwtEvent$TypeB;9
+7org.gwtbootstrap3.client.shared.event.CarouselSlidEvent>>>>>>> .r13

@@ -1,0 +1,91 @@
+
+[org.gwtbootstrap3.client.ui.form.validator.DecimalMaxValidator#isValid(Ljava/lang/Object;)Z¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.java@ @("startingBlock*à	
+2¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaC C("‹ˆ
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaC C(1
+%0double"java.lang.Number#doubleValue()D*
+
+
+valueT2doubleValue()¯
+¬
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaC5 C(=
+%1java.lang.Number"__id*P*N@
+>org.gwtbootstrap3.client.ui.form.validator.DecimalMaxValidator"
+
+maxValue—”
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaC5 C(K
+%2double"java.lang.Number#doubleValue()D*
+
+%1java.lang.Number2doubleValue()"Ä
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaC C(L
+""*´
+startingBlock¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.java@ @(#÷
+ô
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.java? ?(
+%8"
+__annotate*
+java.lang.Override*
+
+
+valueTá
+Þ
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.java@ @("
+
+valueT"__annotation*
+
+%8*	
+2
+4
+1*†
+4¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaA$ A(("Ä
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaA A()
+""*Ù
+1¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaE E( 
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaE" E(2
+%3java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+
+valueT2
+toString()Ç
+Ä
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaE E(3
+%4java.lang.Double">java.lang.Double#valueOf(Ljava/lang/String;)Ljava/lang/Double;*"
+java.lang.Double*
+
+%3java.lang.String—”
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaE E(A
+%5double"java.lang.Double#doubleValue()D*
+
+%4java.lang.Double2doubleValue()¯
+¬
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaEE E(M
+%6java.lang.Number"__id*P*N@
+>org.gwtbootstrap3.client.ui.form.validator.DecimalMaxValidator"
+
+maxValue—”
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaEE E([
+%7double"java.lang.Number#doubleValue()D*
+
+%6java.lang.Number2doubleValue()"Ä
+¹
+®D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/DecimalMaxValidator.javaE E(\
+"":
+
+valueTBB@
+>org.gwtbootstrap3.client.ui.form.validator.DecimalMaxValidator

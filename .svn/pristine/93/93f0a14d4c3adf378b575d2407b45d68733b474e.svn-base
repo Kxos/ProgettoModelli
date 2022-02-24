@@ -1,0 +1,16 @@
+
+dorg.gwtbootstrap3.client.shared.event.TabShowEvent#getTab()Lorg/gwtbootstrap3/client/ui/TabListItem;’
+‡C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TabShowEvent.java0 0("1*ò
+1’
+‡C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TabShowEvent.java1 1(Ž
+‹
+’
+‡C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TabShowEvent.java1 1(-
+%0'org.gwtbootstrap3.client.ui.TabListItem"__id*?*=4
+2org.gwtbootstrap3.client.shared.event.TabShowEvent"
+tab"Æ
+’
+‡C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TabShowEvent.java1 1(/
+-
+%0'org.gwtbootstrap3.client.ui.TabListItemB64
+2org.gwtbootstrap3.client.shared.event.TabShowEvent

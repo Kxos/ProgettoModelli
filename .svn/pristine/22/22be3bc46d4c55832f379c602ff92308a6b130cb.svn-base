@@ -1,0 +1,21 @@
+
+Aorg.gwtbootstrap3.client.ui.html.Span#getHTML()Ljava/lang/String; 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Span.java5 5("1*Û
+1 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Span.java6 6(ž
+›
+ 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Span.java6 6(6
+%00org.gwtbootstrap3.client.ui.base.mixin.HTMLMixin"__id*8*6'
+%org.gwtbootstrap3.client.ui.html.Span"
+	textMixinÑÎ
+ 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Span.java6 6("
+%1java.lang.String"Lorg.gwtbootstrap3.client.ui.base.mixin.HTMLMixin#getHTML()Ljava/lang/String;*8
+6
+%00org.gwtbootstrap3.client.ui.base.mixin.HTMLMixin2	getHTML()"½
+ 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Span.java6 6(#
+
+%1java.lang.StringB)'
+%org.gwtbootstrap3.client.ui.html.Span

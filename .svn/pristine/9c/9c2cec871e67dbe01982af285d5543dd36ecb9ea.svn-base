@@ -1,0 +1,42 @@
+
+šorg.gwtbootstrap3.client.ui.Label#addMouseMoveHandler(Lcom/google/gwt/event/dom/client/MouseMoveHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javah h(2"startingBlock*å
+startingBlock€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javah2 h(Rï
+ì
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javag g(
+%2"
+__annotate*
+java.lang.Override*=
+;
+handler0com.google.gwt.event.dom.client.MouseMoveHandlerÙ
+Ö
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javahJ h(Q;
+handler0com.google.gwt.event.dom.client.MouseMoveHandler"__annotation*
+
+%2*
+1*¨
+
+1€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javai i(Ø
+Õ
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javai& i(>3
+%0-com.google.gwt.event.dom.client.DomEvent$Type"gcom.google.gwt.event.dom.client.MouseMoveEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*2"0
+.com.google.gwt.event.dom.client.MouseMoveEvent…‚
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javai i(?5
+%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*%#
+!org.gwtbootstrap3.client.ui.Label*=
+;
+handler0com.google.gwt.event.dom.client.MouseMoveHandler*5
+3
+%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"¼
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Label.javai i(@7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:;
+handler0com.google.gwt.event.dom.client.MouseMoveHandlerB%#
+!org.gwtbootstrap3.client.ui.Label

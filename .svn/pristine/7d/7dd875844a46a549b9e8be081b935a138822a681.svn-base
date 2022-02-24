@@ -1,0 +1,39 @@
+
+jorg.gwtbootstrap3.client.ui.ScrollSpy#scrollSpy(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/ScrollSpy; 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.java@ @(%"1*°
+1 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA' A(/Æ
+Ã
+ 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA' A(5(
+%0"com.google.gwt.dom.client.Document"Lcom.google.gwt.dom.client.Document#get()Lcom/google/gwt/dom/client/Document;*&"$
+"com.google.gwt.dom.client.DocumentßÜ
+ 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA' A(?+
+%1%com.google.gwt.dom.client.BodyElement"Scom.google.gwt.dom.client.Document#getBody()Lcom/google/gwt/dom/client/BodyElement;**
+(
+%0"com.google.gwt.dom.client.Document2	getBody()ñî
+ 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA' A(F1
+%2+com.google.gwt.core.client.JavaScriptObject"_com.google.gwt.core.client.JavaScriptObject#cast()Lcom/google/gwt/core/client/JavaScriptObject;*-
++
+%1%com.google.gwt.dom.client.BodyElement2cast()ú÷
+ 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA A(+
+%3%org.gwtbootstrap3.client.ui.ScrollSpy"%org.gwtbootstrap3.client.ui.ScrollSpy–
+“
+ 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA A(Q
+%4"dorg.gwtbootstrap3.client.ui.ScrollSpy#<init>(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;)V*-
++
+%3%org.gwtbootstrap3.client.ui.ScrollSpy*3
+1
+%2+com.google.gwt.core.client.JavaScriptObject*
+
+selectorjava.lang.String"Ò
+ 
+•D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA A(R-
++
+%3%org.gwtbootstrap3.client.ui.ScrollSpy:
+selectorjava.lang.StringB)"'
+%org.gwtbootstrap3.client.ui.ScrollSpy

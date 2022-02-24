@@ -1,0 +1,19 @@
+
+Dorg.gwtbootstrap3.client.ui.ValueListBox#getName()Ljava/lang/String;‡
+}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.java` `("1*ª
+1‡
+}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaa a(#ÏÌ
+‡
+}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaa a(%*
+%0$com.google.gwt.user.client.ui.Widget"Ycom.google.gwt.user.client.ui.Composite#getWidget()Lcom/google/gwt/user/client/ui/Widget;*,*
+(org.gwtbootstrap3.client.ui.ValueListBox2getWidget()¡ž
+‡
+}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaa a(0
+%1java.lang.String"Acom.google.gwt.user.client.ui.ListBox#getName()Ljava/lang/String;*,
+*
+%0$com.google.gwt.user.client.ui.Widget2	getName()"¤
+‡
+}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ValueListBox.javaa a(1
+
+%1java.lang.StringB,*
+(org.gwtbootstrap3.client.ui.ValueListBox

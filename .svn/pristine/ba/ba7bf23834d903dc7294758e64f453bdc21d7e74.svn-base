@@ -1,0 +1,16 @@
+
+korg.gwtbootstrap3.client.shared.event.CarouselSlideEvent#getNativeEvent()Lcom/google/gwt/user/client/Event;³
+¨D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlideEvent.java5 5("1*Õ
+1³
+¨D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlideEvent.java6 6(¶
+³
+³
+¨D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlideEvent.java6 6(&
+%0 com.google.gwt.user.client.Event"__id*M*K:
+8org.gwtbootstrap3.client.shared.event.CarouselSlideEvent"
+nativeEvent"à
+³
+¨D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlideEvent.java6 6((
+&
+%0 com.google.gwt.user.client.EventB<:
+8org.gwtbootstrap3.client.shared.event.CarouselSlideEvent

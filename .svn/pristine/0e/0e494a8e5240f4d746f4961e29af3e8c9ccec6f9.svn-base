@@ -1,0 +1,45 @@
+
+`org.gwtbootstrap3.client.ui.Pagination#addNextLink()Lorg/gwtbootstrap3/client/ui/AnchorListItem;…
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaD D(%"1*Ñ
+1…
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE( E(<éæ
+…
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE, E(:0
+%0*org.gwtbootstrap3.client.ui.AnchorListItem"*org.gwtbootstrap3.client.ui.AnchorListItemû
+ø
+…
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE( E(<
+%1"4org.gwtbootstrap3.client.ui.AnchorListItem#<init>()V*2
+0
+%0*org.gwtbootstrap3.client.ui.AnchorListItemý
+ú
+…
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE E(=6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItem"__id*2
+0
+%0*org.gwtbootstrap3.client.ui.AnchorListItemÏ
+Ì
+…
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaF F(44
+%2.org.gwtbootstrap3.client.ui.constants.IconType"__id*
+""¸µ
+…
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaF F(5
+
+%3void"rorg.gwtbootstrap3.client.ui.base.AbstractAnchorListItem#setIcon(Lorg/gwtbootstrap3/client/ui/constants/IconType;)V*8
+6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItem*6
+4
+%2.org.gwtbootstrap3.client.ui.constants.IconType29setIcon(Lorg/gwtbootstrap3/client/ui/constants/IconType;)‡„
+…
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaG G(
+
+%4void"[org.gwtbootstrap3.client.ui.base.ComplexWidget#add(Lcom/google/gwt/user/client/ui/Widget;)V**(
+&org.gwtbootstrap3.client.ui.Pagination*8
+6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItem2+add(Lcom/google/gwt/user/client/ui/Widget;)"Â
+…
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaH H(8
+6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItemB*(
+&org.gwtbootstrap3.client.ui.Pagination

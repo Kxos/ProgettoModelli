@@ -1,0 +1,21 @@
+
+Aorg.gwtbootstrap3.client.ui.html.Span#getHTML()Ljava/lang/String;„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Span.java5 5("1*ë
+1„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Span.java6 6(‚
+ÿ
+„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Span.java6 6(6
+%00org.gwtbootstrap3.client.ui.base.mixin.HTMLMixin"__id*8*6'
+%org.gwtbootstrap3.client.ui.html.Span"
+	textMixinµ²
+„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Span.java6 6("
+%1java.lang.String"Lorg.gwtbootstrap3.client.ui.base.mixin.HTMLMixin#getHTML()Ljava/lang/String;*8
+6
+%00org.gwtbootstrap3.client.ui.base.mixin.HTMLMixin2	getHTML()"¡
+„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Span.java6 6(#
+
+%1java.lang.StringB)'
+%org.gwtbootstrap3.client.ui.html.Span

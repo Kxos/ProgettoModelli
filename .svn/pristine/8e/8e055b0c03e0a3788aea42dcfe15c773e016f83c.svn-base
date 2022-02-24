@@ -1,0 +1,21 @@
+
+horg.gwtbootstrap3.client.ui.TabPanel#getTabPosition()Lorg/gwtbootstrap3/client/ui/constants/TabPosition;ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabPanel.javaH H(%"1*“
+1ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabPanel.javaI I(¤¡
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabPanel.javaI) I(7
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*(&
+$org.gwtbootstrap3.client.ui.TabPanel2getStyleName()œ
+™
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabPanel.javaI I(87
+%11org.gwtbootstrap3.client.ui.constants.TabPosition"†org.gwtbootstrap3.client.ui.constants.TabPosition#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/TabPosition;*5"3
+1org.gwtbootstrap3.client.ui.constants.TabPosition*
+
+%0java.lang.String"Á
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabPanel.javaI I(99
+7
+%11org.gwtbootstrap3.client.ui.constants.TabPositionB(&
+$org.gwtbootstrap3.client.ui.TabPanel

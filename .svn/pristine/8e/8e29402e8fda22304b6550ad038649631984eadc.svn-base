@@ -1,0 +1,21 @@
+
+gorg.gwtbootstrap3.client.ui.ThumbnailLink#getDataToggle()Lorg/gwtbootstrap3/client/ui/constants/Toggle;è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaó ó("1*è
+1è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaò ò(ô
+ñ
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaò ò(<
+%06org.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin"__id*>*<+
+)org.gwtbootstrap3.client.ui.ThumbnailLink"
+toggleMixinêç
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaò ò(*2
+%1,org.gwtbootstrap3.client.ui.constants.Toggle"torg.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin#getDataToggle()Lorg/gwtbootstrap3/client/ui/constants/Toggle;*>
+<
+%06org.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin2getDataToggle()"»
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaò ò(+4
+2
+%1,org.gwtbootstrap3.client.ui.constants.ToggleB-+
+)org.gwtbootstrap3.client.ui.ThumbnailLink

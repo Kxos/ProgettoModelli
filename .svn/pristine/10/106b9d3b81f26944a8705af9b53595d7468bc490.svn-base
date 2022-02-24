@@ -1,0 +1,22 @@
+
+:org.gwtbootstrap3.client.ui.base.ValueBoxBase#validate(Z)Zè
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java   ("1*§
+1è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.javaÀ À(§
+°
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.javaÀ À(@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin"__id*E*C/
+-org.gwtbootstrap3.client.ui.base.ValueBoxBase"
+validatorMixin»≈
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.javaÀ À(,
+%1boolean"Iorg.gwtbootstrap3.client.ui.base.mixin.DefaultValidatorMixin#validate(Z)Z*B
+@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin*
+""2validate(Z)"ö
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.javaÀ À(-
+"":
+""B1/
+-org.gwtbootstrap3.client.ui.base.ValueBoxBase

@@ -1,0 +1,21 @@
+
+Worg.gwtbootstrap3.client.ui.Image#getPull()Lorg/gwtbootstrap3/client/ui/constants/Pull;€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Image.javal l("1*¥
+1€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Image.javam m(ú
+÷
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Image.javam m(6
+%00org.gwtbootstrap3.client.ui.base.mixin.PullMixin"__id*4*2#
+!org.gwtbootstrap3.client.ui.Image"
+	pullMixinåâ
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Image.javam m("0
+%1*org.gwtbootstrap3.client.ui.constants.Pull"forg.gwtbootstrap3.client.ui.base.mixin.PullMixin#getPull()Lorg/gwtbootstrap3/client/ui/constants/Pull;*8
+6
+%00org.gwtbootstrap3.client.ui.base.mixin.PullMixin2	getPull()"·
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Image.javam m(#2
+0
+%1*org.gwtbootstrap3.client.ui.constants.PullB%#
+!org.gwtbootstrap3.client.ui.Image

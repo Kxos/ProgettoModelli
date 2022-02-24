@@ -1,0 +1,28 @@
+
+@org.gwtbootstrap3.client.ui.Anchor#getTarget()Ljava/lang/String;ƒ
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÑ Ñ("1*ò
+1ƒ
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÒ Ò(ˆ
+…
+ƒ
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÒ Ò(;
+%05org.gwtbootstrap3.client.ui.base.mixin.AttributeMixin"__id*:*8$
+"org.gwtbootstrap3.client.ui.Anchor"
+attributeMixin¯
+¬
+ƒ
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÒ+ Ò(<
+%1java.lang.String"__id*
+""†ƒ
+ƒ
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÒ Ò(=
+%2java.lang.String"horg.gwtbootstrap3.client.ui.base.mixin.AttributeMixin#getAttribute(Ljava/lang/String;)Ljava/lang/String;*=
+;
+%05org.gwtbootstrap3.client.ui.base.mixin.AttributeMixin*
+
+%1java.lang.String2 getAttribute(Ljava/lang/String;)" 
+ƒ
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaÒ Ò(>
+
+%2java.lang.StringB&$
+"org.gwtbootstrap3.client.ui.Anchor

@@ -1,0 +1,22 @@
+
+aorg.gwtbootstrap3.client.ui.gwt.HTMLPanel#getDataSpy()Lorg/gwtbootstrap3/client/ui/constants/Spy;§
+ôD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.javaR R("1*»
+1§
+ôD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.javaS S(®
+•
+§
+ôD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.javaS S(9
+%03org.gwtbootstrap3.client.ui.base.mixin.DataSpyMixin"__id*;*9+
+)org.gwtbootstrap3.client.ui.gwt.HTMLPanel"
+
+spyMixinìê
+§
+ôD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.javaS S($/
+%1)org.gwtbootstrap3.client.ui.constants.Spy"korg.gwtbootstrap3.client.ui.base.mixin.DataSpyMixin#getDataSpy()Lorg/gwtbootstrap3/client/ui/constants/Spy;*;
+9
+%03org.gwtbootstrap3.client.ui.base.mixin.DataSpyMixin2getDataSpy()"⁄
+§
+ôD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.javaS S(%1
+/
+%1)org.gwtbootstrap3.client.ui.constants.SpyB-+
+)org.gwtbootstrap3.client.ui.gwt.HTMLPanel

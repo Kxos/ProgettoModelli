@@ -1,0 +1,21 @@
+
+9org.gwtbootstrap3.client.ui.CarouselIndicator#isActive()Z‘
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselIndicator.java= =("1*…
+1‘
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselIndicator.java> >(›
+˜
+‘
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselIndicator.java> >(8
+%02org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin"__id*B*@/
+-org.gwtbootstrap3.client.ui.CarouselIndicator"
+activeMixin®«
+‘
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselIndicator.java> >(%
+%1boolean">org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin#isActive()Z*:
+8
+%02org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin2
+isActive()"œ
+‘
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselIndicator.java> >(&
+""B1/
+-org.gwtbootstrap3.client.ui.CarouselIndicator

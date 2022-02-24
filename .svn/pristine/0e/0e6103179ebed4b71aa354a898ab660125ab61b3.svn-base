@@ -1,0 +1,21 @@
+
+^org.gwtbootstrap3.client.ui.Icon#getRotate()Lorg/gwtbootstrap3/client/ui/constants/IconRotate;Å
+uC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaà à("1*Ç
+1Å
+uC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaâ â(ûõ
+Å
+uC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaâ( â(6
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*$"
+ org.gwtbootstrap3.client.ui.Icon2getStyleName()ñ
+ì
+Å
+uC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaâ â(76
+%10org.gwtbootstrap3.client.ui.constants.IconRotate"Ñorg.gwtbootstrap3.client.ui.constants.IconRotate#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/IconRotate;*4"2
+0org.gwtbootstrap3.client.ui.constants.IconRotate*
+
+%0java.lang.String"æ
+Å
+uC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaâ â(88
+6
+%10org.gwtbootstrap3.client.ui.constants.IconRotateB$"
+ org.gwtbootstrap3.client.ui.Icon

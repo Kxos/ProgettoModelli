@@ -1,0 +1,42 @@
+
+šorg.gwtbootstrap3.client.ui.ThumbnailLink#addClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java] ](."startingBlock*õ
+startingBlockˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java]. ](Jó
+ð
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java\ \(
+%2"
+__annotate*
+java.lang.Override*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandlerÝ
+Ú
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java]B ](I7
+handler,com.google.gwt.event.dom.client.ClickHandler"__annotation*
+
+%2*
+1*Ä
+
+1ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^ ^(Ø
+Õ
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^& ^(:3
+%0-com.google.gwt.event.dom.client.DomEvent$Type"ccom.google.gwt.event.dom.client.ClickEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*.",
+*com.google.gwt.event.dom.client.ClickEvent‘Ž
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^ ^(;5
+%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*-+
+)org.gwtbootstrap3.client.ui.ThumbnailLink*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandler*5
+3
+%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"Ä
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^ ^(<7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:7
+handler,com.google.gwt.event.dom.client.ClickHandlerB-+
+)org.gwtbootstrap3.client.ui.ThumbnailLink

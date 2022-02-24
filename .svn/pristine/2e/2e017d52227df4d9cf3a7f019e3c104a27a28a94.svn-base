@@ -1,0 +1,59 @@
+
+<<<<<<< .mine
+aorg.gwtbootstrap3.client.ui.gwt.FlowPanel#getDataSpy()Lorg/gwtbootstrap3/client/ui/constants/Spy;
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/FlowPanel.java5 5("1*ì
+1
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/FlowPanel.java6 6(‘
+Ž
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/FlowPanel.java6 6(9
+%03org.gwtbootstrap3.client.ui.base.mixin.DataSpyMixin"__id*;*9+
+)org.gwtbootstrap3.client.ui.gwt.FlowPanel"
+
+spyMixinüù
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/FlowPanel.java6 6($/
+%1)org.gwtbootstrap3.client.ui.constants.Spy"korg.gwtbootstrap3.client.ui.base.mixin.DataSpyMixin#getDataSpy()Lorg/gwtbootstrap3/client/ui/constants/Spy;*;
+9
+%03org.gwtbootstrap3.client.ui.base.mixin.DataSpyMixin2getDataSpy()"Ã
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/FlowPanel.java6 6(%1
+/
+%1)org.gwtbootstrap3.client.ui.constants.SpyB-+
+)org.gwtbootstrap3.client.ui.gwt.FlowPanel||||||| .r11
+Sorg.gwtbootstrap3.client.ui.constants.Responsiveness#getCssName()Ljava/lang/String;˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/Responsiveness.java2 2("1*Ý
+1˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/Responsiveness.java3 3(„
+
+˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/Responsiveness.java3 3(
+%0java.lang.String"__id*F*D6
+4org.gwtbootstrap3.client.ui.constants.Responsiveness"
+
+cssClass"µ
+˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/Responsiveness.java3 3(
+
+%0java.lang.StringB86
+4org.gwtbootstrap3.client.ui.constants.Responsiveness=======
+aorg.gwtbootstrap3.client.ui.Heading#getEmphasis()Lorg/gwtbootstrap3/client/ui/constants/Emphasis; 
+“D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java¬ ¬("1*÷
+1 
+“D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java­ ­(À½
+ 
+“D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java­& ­(4
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*'%
+#org.gwtbootstrap3.client.ui.Heading2getStyleName()­
+ª
+ 
+“D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java­ ­(54
+%1.org.gwtbootstrap3.client.ui.constants.Emphasis"€org.gwtbootstrap3.client.ui.constants.Emphasis#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/Emphasis;*2"0
+.org.gwtbootstrap3.client.ui.constants.Emphasis*
+
+%0java.lang.String"Û
+ 
+“D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java­ ­(66
+4
+%1.org.gwtbootstrap3.client.ui.constants.EmphasisB'%
+#org.gwtbootstrap3.client.ui.Heading>>>>>>> .r13

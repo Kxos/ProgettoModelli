@@ -1,0 +1,38 @@
+
+<<<<<<< .mine
+;org.gwtbootstrap3.client.ui.base.ValueBoxBaseUi#validate()Z•
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.javaÅ Å("1*´
+1•
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.javaÆ Æ(¬
+©
+•
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.javaÆ Æ(@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin"__id*G*E1
+/org.gwtbootstrap3.client.ui.base.ValueBoxBaseUi"
+validatorMixinÄÁ
+•
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.javaÆ Æ((
+%1boolean"Horg.gwtbootstrap3.client.ui.base.mixin.DefaultValidatorMixin#validate()Z*B
+@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin2
+validate()" 
+•
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.javaÆ Æ()
+""B31
+/org.gwtbootstrap3.client.ui.base.ValueBoxBaseUi||||||| .r11
+Qorg.gwtbootstrap3.client.ui.base.mixin.DefaultValidatorMixin#getValidateOnBlur()Z¢
+•C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/DefaultValidatorMixin.java€ €($"1*Ø
+1¢
+•C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/DefaultValidatorMixin.java ("­
+¢
+•C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/DefaultValidatorMixin.java (
+""B@>
+<org.gwtbootstrap3.client.ui.base.mixin.DefaultValidatorMixin=======
+Qorg.gwtbootstrap3.client.ui.base.mixin.DefaultValidatorMixin#getValidateOnBlur()Z¹
+¬D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/DefaultValidatorMixin.java€ €($"1*†
+1¹
+¬D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/DefaultValidatorMixin.java ("Ä
+¹
+¬D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/DefaultValidatorMixin.java (
+""B@>
+<org.gwtbootstrap3.client.ui.base.mixin.DefaultValidatorMixin>>>>>>> .r13

@@ -1,0 +1,48 @@
+
+®org.gwtbootstrap3.client.ui.base.AbstractAnchorListItem#addClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaE E(."startingBlock*¢
+startingBlockó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaE. E(JÇ
+ˇ
+ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaD D(
+%3"
+__annotate*
+java.lang.Override*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandlerÏ
+È
+ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaEB E(I7
+handler,com.google.gwt.event.dom.client.ClickHandler"__annotation*
+
+%3*
+1*à
+1ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaF F(ñ
+ì
+ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaF F((
+%0"org.gwtbootstrap3.client.ui.Anchor"__id*G*E9
+7org.gwtbootstrap3.client.ui.base.AbstractAnchorListItem"
+anchorÁ
+‰
+ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaF* F(>3
+%1-com.google.gwt.event.dom.client.DomEvent$Type"ccom.google.gwt.event.dom.client.ClickEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*.",
+*com.google.gwt.event.dom.client.ClickEventèå
+ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaF F(?5
+%2/com.google.gwt.event.shared.HandlerRegistration"∑com.google.gwt.user.client.ui.Widget#addHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;**
+(
+%0"org.gwtbootstrap3.client.ui.Anchor*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandler*5
+3
+%1-com.google.gwt.event.dom.client.DomEvent$Type2aaddHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)"”
+ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaF F(@7
+5
+%2/com.google.gwt.event.shared.HandlerRegistration:7
+handler,com.google.gwt.event.dom.client.ClickHandlerB;9
+7org.gwtbootstrap3.client.ui.base.AbstractAnchorListItem

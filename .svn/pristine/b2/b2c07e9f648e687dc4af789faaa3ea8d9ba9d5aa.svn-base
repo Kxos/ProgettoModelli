@@ -1,0 +1,21 @@
+
+aorg.gwtbootstrap3.client.ui.SuggestBox#getSize()Lorg/gwtbootstrap3/client/ui/constants/InputSize;‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.java‡ ‡("1*›
+1‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaˆ ˆ(ª§
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaˆ' ˆ(5
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;**(
+&org.gwtbootstrap3.client.ui.SuggestBox2getStyleName()˜
+•
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaˆ ˆ(65
+%1/org.gwtbootstrap3.client.ui.constants.InputSize"‚org.gwtbootstrap3.client.ui.constants.InputSize#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/InputSize;*3"1
+/org.gwtbootstrap3.client.ui.constants.InputSize*
+
+%0java.lang.String"Ã
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaˆ ˆ(77
+5
+%1/org.gwtbootstrap3.client.ui.constants.InputSizeB*(
+&org.gwtbootstrap3.client.ui.SuggestBox

@@ -1,0 +1,21 @@
+
+borg.gwtbootstrap3.client.ui.ImageAnchor#getType()Lorg/gwtbootstrap3/client/ui/constants/ImageType;¢
+—D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ImageAnchor.java9 9("1*ˆ	
+1¢
+—D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ImageAnchor.java: :(ÆÃ
+¢
+—D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ImageAnchor.java:' :(5
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*+)
+'org.gwtbootstrap3.client.ui.ImageAnchor2getStyleName()³
+°
+¢
+—D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ImageAnchor.java: :(65
+%1/org.gwtbootstrap3.client.ui.constants.ImageType"‚org.gwtbootstrap3.client.ui.constants.ImageType#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/ImageType;*3"1
+/org.gwtbootstrap3.client.ui.constants.ImageType*
+
+%0java.lang.String"Þ
+¢
+—D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ImageAnchor.java: :(77
+5
+%1/org.gwtbootstrap3.client.ui.constants.ImageTypeB+)
+'org.gwtbootstrap3.client.ui.ImageAnchor

@@ -1,0 +1,19 @@
+
+Forg.gwtbootstrap3.client.ui.DropDownHeader#getText()Ljava/lang/String;‰
+C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/DropDownHeader.javaG G("1*µ
+1‰
+C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/DropDownHeader.javaH H(ÐÍ
+‰
+C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/DropDownHeader.javaH H((
+%0"com.google.gwt.user.client.Element"Wcom.google.gwt.user.client.ui.UIObject#getElement()Lcom/google/gwt/user/client/Element;*.,
+*org.gwtbootstrap3.client.ui.DropDownHeader2getElement()§¤
+‰
+C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/DropDownHeader.javaH H(*
+%1java.lang.String"Bcom.google.gwt.dom.client.Element#getInnerText()Ljava/lang/String;**
+(
+%0"com.google.gwt.user.client.Element2getInnerText()"¦
+‰
+C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/DropDownHeader.javaH H(+
+
+%1java.lang.StringB.,
+*org.gwtbootstrap3.client.ui.DropDownHeader

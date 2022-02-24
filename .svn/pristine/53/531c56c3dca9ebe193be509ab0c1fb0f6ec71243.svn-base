@@ -1,0 +1,21 @@
+
+\org.gwtbootstrap3.client.ui.Panel#getType()Lorg/gwtbootstrap3/client/ui/constants/PanelType;€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Panel.java1 1("1*ú
+1€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Panel.java2 2(ž›
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Panel.java2' 2(5
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*%#
+!org.gwtbootstrap3.client.ui.Panel2getStyleName()‘
+Ž
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Panel.java2 2(65
+%1/org.gwtbootstrap3.client.ui.constants.PanelType"‚org.gwtbootstrap3.client.ui.constants.PanelType#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/PanelType;*3"1
+/org.gwtbootstrap3.client.ui.constants.PanelType*
+
+%0java.lang.String"¼
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Panel.java2 2(77
+5
+%1/org.gwtbootstrap3.client.ui.constants.PanelTypeB%#
+!org.gwtbootstrap3.client.ui.Panel

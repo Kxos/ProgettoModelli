@@ -1,0 +1,21 @@
+
+Aorg.gwtbootstrap3.client.ui.html.Text#getText()Ljava/lang/String;ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Text.javaL L("1*À
+1ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Text.javaM M(ï
+ì
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Text.javaM M($
+%0com.google.gwt.dom.client.Text"__id*3*1'
+%org.gwtbootstrap3.client.ui.html.Text"
+text•’
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Text.javaM M(
+%1java.lang.String":com.google.gwt.dom.client.Text#getData()Ljava/lang/String;*&
+$
+%0com.google.gwt.dom.client.Text2	getData()"¥
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/html/Text.javaM M(
+
+%1java.lang.StringB)'
+%org.gwtbootstrap3.client.ui.html.Text

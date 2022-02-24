@@ -1,0 +1,108 @@
+
+<<<<<<< .mine
+Norg.gwtbootstrap3.client.ui.constants.ImageType#getCssName()Ljava/lang/String;ì
+àC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java+ +("1*…
+1ì
+àC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java, ,(˙
+˜
+ì
+àC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java, ,(
+%0java.lang.String"__id*A*?1
+/org.gwtbootstrap3.client.ui.constants.ImageType"
+||||||| .r11
+`org.gwtbootstrap3.client.ui.Pagination#addNextLink()Lorg/gwtbootstrap3/client/ui/AnchorListItem;â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaD D(%"1*Ò
+1â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE( E(<ÌÍ
+â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE, E(:0
+%0*org.gwtbootstrap3.client.ui.AnchorListItem"*org.gwtbootstrap3.client.ui.AnchorListItemˇ
+¸
+â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE( E(<
+%1"4org.gwtbootstrap3.client.ui.AnchorListItem#<init>()V*2
+0
+%0*org.gwtbootstrap3.client.ui.AnchorListItemÅ
+˛
+â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE E(=6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItem"__id*2
+0
+%0*org.gwtbootstrap3.client.ui.AnchorListItem”
+–
+â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaF F(44
+%2.org.gwtbootstrap3.client.ui.constants.IconType"__id*
+""ºπ
+â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaF F(5
+=======
+`org.gwtbootstrap3.client.ui.Pagination#addNextLink()Lorg/gwtbootstrap3/client/ui/AnchorListItem;°
+ñD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaD D(%"1*±
+1°
+ñD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE( E(<ÖÇ
+°
+ñD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE, E(:0
+%0*org.gwtbootstrap3.client.ui.AnchorListItem"*org.gwtbootstrap3.client.ui.AnchorListItemó
+î
+°
+ñD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE( E(<
+%1"4org.gwtbootstrap3.client.ui.AnchorListItem#<init>()V*2
+0
+%0*org.gwtbootstrap3.client.ui.AnchorListItemô
+ñ
+°
+ñD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaE E(=6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItem"__id*2
+0
+%0*org.gwtbootstrap3.client.ui.AnchorListItemÎ
+Ë
+°
+ñD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaF F(44
+%2.org.gwtbootstrap3.client.ui.constants.IconType"__id*
+""‘—
+°
+ñD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaF F(5
+>>>>>>> .r13
+
+<<<<<<< .mine
+cssClass"∞
+ì
+àC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/ImageType.java, ,(
+
+%0java.lang.StringB31
+/org.gwtbootstrap3.client.ui.constants.ImageType||||||| .r11
+%3void"rorg.gwtbootstrap3.client.ui.base.AbstractAnchorListItem#setIcon(Lorg/gwtbootstrap3/client/ui/constants/IconType;)V*8
+6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItem*6
+4
+%2.org.gwtbootstrap3.client.ui.constants.IconType29setIcon(Lorg/gwtbootstrap3/client/ui/constants/IconType;)ãà
+â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaG G(
+
+%4void"[org.gwtbootstrap3.client.ui.base.ComplexWidget#add(Lcom/google/gwt/user/client/ui/Widget;)V**(
+&org.gwtbootstrap3.client.ui.Pagination*8
+6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItem2+add(Lcom/google/gwt/user/client/ui/Widget;)"∆
+â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaH H(8
+6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItemB*(
+&org.gwtbootstrap3.client.ui.Pagination=======
+%3void"rorg.gwtbootstrap3.client.ui.base.AbstractAnchorListItem#setIcon(Lorg/gwtbootstrap3/client/ui/constants/IconType;)V*8
+6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItem*6
+4
+%2.org.gwtbootstrap3.client.ui.constants.IconType29setIcon(Lorg/gwtbootstrap3/client/ui/constants/IconType;)£†
+°
+ñD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaG G(
+
+%4void"[org.gwtbootstrap3.client.ui.base.ComplexWidget#add(Lcom/google/gwt/user/client/ui/Widget;)V**(
+&org.gwtbootstrap3.client.ui.Pagination*8
+6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItem2+add(Lcom/google/gwt/user/client/ui/Widget;)"ﬁ
+°
+ñD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.javaH H(8
+6
+listItem*org.gwtbootstrap3.client.ui.AnchorListItemB*(
+&org.gwtbootstrap3.client.ui.Pagination>>>>>>> .r13

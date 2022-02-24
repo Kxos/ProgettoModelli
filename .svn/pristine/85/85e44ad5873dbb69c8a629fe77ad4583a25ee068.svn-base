@@ -1,0 +1,19 @@
+
+;org.gwtbootstrap3.client.ui.CheckBoxButton#isIconInverse()Z‹
+C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.javaµ µ( "1*ý
+1‹
+C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java¶ ¶(Ç
+Ä
+‹
+C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java¶ ¶(&
+%0 org.gwtbootstrap3.client.ui.Icon"\org.gwtbootstrap3.client.ui.CheckBoxButton#getActualIcon()Lorg/gwtbootstrap3/client/ui/Icon;*.,
+*org.gwtbootstrap3.client.ui.CheckBoxButton†ƒ
+‹
+C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java¶ ¶(*
+%1boolean"-org.gwtbootstrap3.client.ui.Icon#isInverse()Z*(
+&
+%0 org.gwtbootstrap3.client.ui.Icon2isInverse()"–
+‹
+C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBoxButton.java¶ ¶(+
+""B.,
+*org.gwtbootstrap3.client.ui.CheckBoxButton

@@ -1,0 +1,31 @@
+
+horg.gwtbootstrap3.client.ui.base.mixin.AttributeMixin#getAttribute(Ljava/lang/String;)Ljava/lang/String;•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/AttributeMixin.java2 2("1*É
+
+1•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/AttributeMixin.java3 3(˜
+•
+•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/AttributeMixin.java3 3(,
+%0&com.google.gwt.user.client.ui.UIObject"__id*G*E7
+5org.gwtbootstrap3.client.ui.base.mixin.AttributeMixin"
+
+uiObjectÜÙ
+•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/AttributeMixin.java3 3($(
+%1"com.google.gwt.user.client.Element"Wcom.google.gwt.user.client.ui.UIObject#getElement()Lcom/google/gwt/user/client/Element;*.
+,
+%0&com.google.gwt.user.client.ui.UIObject2getElement()üù
+•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/AttributeMixin.java3 3(@
+%2java.lang.String"Tcom.google.gwt.dom.client.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;**
+(
+%1"com.google.gwt.user.client.Element*#
+!
+attributeNamejava.lang.String2 getAttribute(Ljava/lang/String;)"²
+•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/AttributeMixin.java3 3(A
+
+%2java.lang.String:!
+attributeNamejava.lang.StringB97
+5org.gwtbootstrap3.client.ui.base.mixin.AttributeMixin

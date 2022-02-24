@@ -1,0 +1,21 @@
+
+Xorg.gwtbootstrap3.client.ui.Anchor#getPull()Lorg/gwtbootstrap3/client/ui/constants/Pull;ü
+íD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java· ·("1*¢
+1ü
+íD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java‚ ‚(ö
+ó
+ü
+íD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java‚ ‚(6
+%00org.gwtbootstrap3.client.ui.base.mixin.PullMixin"__id*5*3$
+"org.gwtbootstrap3.client.ui.Anchor"
+	pullMixinÑÅ
+ü
+íD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java‚ ‚("0
+%1*org.gwtbootstrap3.client.ui.constants.Pull"forg.gwtbootstrap3.client.ui.base.mixin.PullMixin#getPull()Lorg/gwtbootstrap3/client/ui/constants/Pull;*8
+6
+%00org.gwtbootstrap3.client.ui.base.mixin.PullMixin2	getPull()"÷
+ü
+íD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java‚ ‚(#2
+0
+%1*org.gwtbootstrap3.client.ui.constants.PullB&$
+"org.gwtbootstrap3.client.ui.Anchor

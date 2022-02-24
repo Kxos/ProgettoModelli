@@ -1,0 +1,67 @@
+
+<<<<<<< .mine
+€org.gwtbootstrap3.client.ui.constants.FormType#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/FormType;’
+‡C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/FormType.java/ /(("1*¹
+1’
+‡C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/FormType.java0 0(Ü
+Ù
+’
+‡C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/FormType.java0C 0(J4
+%0.org.gwtbootstrap3.client.ui.constants.FormType"__id*
+""ï
+ì
+’
+‡C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/FormType.java0 0(K4
+%1.org.gwtbootstrap3.client.ui.constants.FormType"…org.gwtbootstrap3.client.ui.base.helper.EnumHelper#fromStyleName(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Enum;)Ljava/lang/Enum;*6"4
+2org.gwtbootstrap3.client.ui.base.helper.EnumHelper*
+
+	styleNamejava.lang.String*
+""*6
+4
+%0.org.gwtbootstrap3.client.ui.constants.FormType"Í
+’
+‡C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/FormType.java0 0(L6
+4
+%1.org.gwtbootstrap3.client.ui.constants.FormType:
+	styleNamejava.lang.StringB2"0
+.org.gwtbootstrap3.client.ui.constants.FormType||||||| .r11
+porg.gwtbootstrap3.client.ui.Pagination#getPaginationSize()Lorg/gwtbootstrap3/client/ui/constants/PaginationSize;‰
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java9 9(+"1*¼
+1‰
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java: :(¬©
+‰
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java:, :(:
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;**(
+&org.gwtbootstrap3.client.ui.Pagination2getStyleName()®
+«
+‰
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java: :(;:
+%14org.gwtbootstrap3.client.ui.constants.PaginationSize"Œorg.gwtbootstrap3.client.ui.constants.PaginationSize#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/PaginationSize;*8"6
+4org.gwtbootstrap3.client.ui.constants.PaginationSize*
+
+%0java.lang.String"Ê
+‰
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java: :(<<
+:
+%14org.gwtbootstrap3.client.ui.constants.PaginationSizeB*(
+&org.gwtbootstrap3.client.ui.Pagination=======
+porg.gwtbootstrap3.client.ui.Pagination#getPaginationSize()Lorg/gwtbootstrap3/client/ui/constants/PaginationSize;¡
+–D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java9 9(+"1*œ	
+1¡
+–D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java: :(ÄÁ
+¡
+–D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java:, :(:
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;**(
+&org.gwtbootstrap3.client.ui.Pagination2getStyleName()Æ
+Ã
+¡
+–D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java: :(;:
+%14org.gwtbootstrap3.client.ui.constants.PaginationSize"Œorg.gwtbootstrap3.client.ui.constants.PaginationSize#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/PaginationSize;*8"6
+4org.gwtbootstrap3.client.ui.constants.PaginationSize*
+
+%0java.lang.String"â
+¡
+–D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pagination.java: :(<<
+:
+%14org.gwtbootstrap3.client.ui.constants.PaginationSizeB*(
+&org.gwtbootstrap3.client.ui.Pagination>>>>>>> .r13

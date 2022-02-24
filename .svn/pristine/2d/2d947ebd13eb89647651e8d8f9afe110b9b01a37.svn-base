@@ -1,0 +1,21 @@
+
+`org.gwtbootstrap3.client.ui.Anchor#getDataToggle()Lorg/gwtbootstrap3/client/ui/constants/Toggle;‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java÷ ÷("1*è
+1‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaø ø(Š
+‡
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaø ø(<
+%06org.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin"__id*7*5$
+"org.gwtbootstrap3.client.ui.Anchor"
+toggleMixinˆ…
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaø ø(*2
+%1,org.gwtbootstrap3.client.ui.constants.Toggle"torg.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin#getDataToggle()Lorg/gwtbootstrap3/client/ui/constants/Toggle;*>
+<
+%06org.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin2getDataToggle()"À
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaø ø(+4
+2
+%1,org.gwtbootstrap3.client.ui.constants.ToggleB&$
+"org.gwtbootstrap3.client.ui.Anchor

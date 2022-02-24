@@ -1,0 +1,46 @@
+
+Borg.gwtbootstrap3.client.ui.CheckBox#getValue()Ljava/lang/Boolean;…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java   ("3*±
+2…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¢ ¢(ø
+õ
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¢ ¢(,
+%1&com.google.gwt.dom.client.InputElement"__id*7*5&
+$org.gwtbootstrap3.client.ui.CheckBox"
+	inputElemŒ‰
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¢ ¢((
+%2boolean"3com.google.gwt.dom.client.InputElement#isChecked()Z*.
+,
+%1&com.google.gwt.dom.client.InputElement2isChecked()"™
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¢ ¢()
+
+%2boolean*œ
+3…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¡ ¡(†ƒ
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¡ ¡(
+%0boolean"2com.google.gwt.user.client.ui.Widget#isAttached()Z*(&
+$org.gwtbootstrap3.client.ui.CheckBox2isAttached()*
+2
+1*¿
+1…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¤ ¤(ø
+õ
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¤ ¤(,
+%3&com.google.gwt.dom.client.InputElement"__id*7*5&
+$org.gwtbootstrap3.client.ui.CheckBox"
+	inputElemš—
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¤ ¤(/
+%4boolean":com.google.gwt.dom.client.InputElement#isDefaultChecked()Z*.
+,
+%3&com.google.gwt.dom.client.InputElement2isDefaultChecked()"™
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.java¤ ¤(0
+
+%4booleanB(&
+$org.gwtbootstrap3.client.ui.CheckBox

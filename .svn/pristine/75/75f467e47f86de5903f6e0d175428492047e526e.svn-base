@@ -1,0 +1,21 @@
+
+corg.gwtbootstrap3.client.ui.Heading#getAlignment()Lorg/gwtbootstrap3/client/ui/constants/Alignment;„
+xC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java¼ ¼(!"1*Œ
+1„
+xC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java½ ½(¤¡
+„
+xC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java½' ½(5
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*'%
+#org.gwtbootstrap3.client.ui.Heading2getStyleName()•
+’
+„
+xC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java½ ½(65
+%1/org.gwtbootstrap3.client.ui.constants.Alignment"‚org.gwtbootstrap3.client.ui.constants.Alignment#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/Alignment;*3"1
+/org.gwtbootstrap3.client.ui.constants.Alignment*
+
+%0java.lang.String"À
+„
+xC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Heading.java½ ½(77
+5
+%1/org.gwtbootstrap3.client.ui.constants.AlignmentB'%
+#org.gwtbootstrap3.client.ui.Heading

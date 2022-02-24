@@ -1,0 +1,98 @@
+
+<<<<<<< .mine
+Uorg.gwtbootstrap3.client.ui.LinkedGroupItem#getTargetHistoryToken()Ljava/lang/String;
+„C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javam m('"1*Ã
+1
+„C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javan n(!ü
+ù
+
+„C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javan n(!
+%0java.lang.String"__id*G*E-
++org.gwtbootstrap3.client.ui.LinkedGroupItem"
+targetHistoryToken"¬
+
+„C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javan n("
+
+%0java.lang.StringB/-
++org.gwtbootstrap3.client.ui.LinkedGroupItem||||||| .r11
+šorg.gwtbootstrap3.client.ui.ThumbnailLink#addClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java] ](."startingBlock*„
+startingBlock
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java]. ](Jø
+õ
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java\ \(
+%2"
+__annotate*
+java.lang.Override*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandlerâ
+ß
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java]B ](I7
+handler,com.google.gwt.event.dom.client.ClickHandler"__annotation*
+
+%2*
+1*Ø
+
+1
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^ ^(Ý
+Ú
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^& ^(:3
+%0-com.google.gwt.event.dom.client.DomEvent$Type"ccom.google.gwt.event.dom.client.ClickEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*.",
+*com.google.gwt.event.dom.client.ClickEvent–“
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^ ^(;5
+%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*-+
+)org.gwtbootstrap3.client.ui.ThumbnailLink*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandler*5
+3
+%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"É
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^ ^(<7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:7
+handler,com.google.gwt.event.dom.client.ClickHandlerB-+
+)org.gwtbootstrap3.client.ui.ThumbnailLink=======
+šorg.gwtbootstrap3.client.ui.ThumbnailLink#addClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java] ](."startingBlock*É
+startingBlock¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java]. ](J
+Œ
+¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java\ \(
+%2"
+__annotate*
+java.lang.Override*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandlerù
+ö
+¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java]B ](I7
+handler,com.google.gwt.event.dom.client.ClickHandler"__annotation*
+
+%2*
+1*´
+1¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^ ^(ô
+ñ
+¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^& ^(:3
+%0-com.google.gwt.event.dom.client.DomEvent$Type"ccom.google.gwt.event.dom.client.ClickEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*.",
+*com.google.gwt.event.dom.client.ClickEvent­ª
+¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^ ^(;5
+%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*-+
+)org.gwtbootstrap3.client.ui.ThumbnailLink*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandler*5
+3
+%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"à
+¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.java^ ^(<7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:7
+handler,com.google.gwt.event.dom.client.ClickHandlerB-+
+)org.gwtbootstrap3.client.ui.ThumbnailLink>>>>>>> .r13

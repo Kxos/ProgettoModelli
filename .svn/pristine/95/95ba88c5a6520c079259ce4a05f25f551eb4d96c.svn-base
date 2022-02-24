@@ -1,0 +1,21 @@
+
+jorg.gwtbootstrap3.client.ui.CheckBox#getTextDirection()Lcom/google/gwt/i18n/client/HasDirection$Direction;Ö
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaë ë(%"1*¯
+1Ö
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaí í($ë
+é
+Ö
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaí í($9
+%03com.google.gwt.user.client.ui.DirectionalTextHelper"__id*C*A&
+$org.gwtbootstrap3.client.ui.CheckBox"
+directionalTextHelperêç
+Ö
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaí í(77
+%11com.google.gwt.i18n.client.HasDirection$Direction"ycom.google.gwt.user.client.ui.DirectionalTextHelper#getTextDirection()Lcom/google/gwt/i18n/client/HasDirection$Direction;*;
+9
+%03com.google.gwt.user.client.ui.DirectionalTextHelper2getTextDirection()"√
+Ö
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaí í(89
+7
+%11com.google.gwt.i18n.client.HasDirection$DirectionB(&
+$org.gwtbootstrap3.client.ui.CheckBox

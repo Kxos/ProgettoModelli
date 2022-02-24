@@ -1,0 +1,16 @@
+
+gorg.gwtbootstrap3.client.shared.event.ModalHideEvent#getNativeEvent()Lcom/google/gwt/user/client/Event;î
+âC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalHideEvent.java5 5("1*Ù
+1î
+âC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalHideEvent.java6 6(ì
+ê
+î
+âC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalHideEvent.java6 6(&
+%0 com.google.gwt.user.client.Event"__id*I*G6
+4org.gwtbootstrap3.client.shared.event.ModalHideEvent"
+nativeEvent"¡
+î
+âC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalHideEvent.java6 6((
+&
+%0 com.google.gwt.user.client.EventB86
+4org.gwtbootstrap3.client.shared.event.ModalHideEvent

@@ -1,0 +1,21 @@
+
+Borg.gwtbootstrap3.client.ui.base.button.AbstractButton#isActive()Z–
+‹C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javav v("1*¢
+1–
+‹C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaw w(©
+¦
+–
+‹C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaw w(8
+%02org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin"__id*K*I8
+6org.gwtbootstrap3.client.ui.base.button.AbstractButton"
+activeMixin³°
+–
+‹C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaw w(%
+%1boolean">org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin#isActive()Z*:
+8
+%02org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin2
+isActive()"¡
+–
+‹C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaw w(&
+""B:8
+6org.gwtbootstrap3.client.ui.base.button.AbstractButton

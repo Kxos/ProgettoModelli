@@ -1,0 +1,90 @@
+
+<<<<<<< .mine
+Borg.gwtbootstrap3.client.ui.base.mixin.IconTextMixin#isIconSpin()Zš
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java« «("1*È
+1š
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java¬ ¬("¥
+š
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java¬ ¬(
+""B86
+4org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin||||||| .r11
+§org.gwtbootstrap3.client.ui.base.button.AbstractButton#addClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;œ
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaŠ Š(."startingBlock*±
+startingBlockœ
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaŠ. Š(J‡
+„
+œ
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.java‰ ‰(
+%2"
+__annotate*
+java.lang.Override*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandlerñ
+î
+œ
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaŠB Š(I7
+handler,com.google.gwt.event.dom.client.ClickHandler"__annotation*
+
+%2*
+1*¡
+1œ
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.java‹ ‹(ì
+é
+œ
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.java‹& ‹(:3
+%0-com.google.gwt.event.dom.client.DomEvent$Type"ccom.google.gwt.event.dom.client.ClickEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*.",
+*com.google.gwt.event.dom.client.ClickEvent²¯
+œ
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.java‹ ‹(;5
+%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*:8
+6org.gwtbootstrap3.client.ui.base.button.AbstractButton*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandler*5
+3
+%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"Ø
+œ
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.java‹ ‹(<7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:7
+handler,com.google.gwt.event.dom.client.ClickHandlerB:8
+6org.gwtbootstrap3.client.ui.base.button.AbstractButton=======
+§org.gwtbootstrap3.client.ui.base.button.AbstractButton#addClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;³
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaŠ Š(."startingBlock*ö
+startingBlock³
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaŠ. Š(Jž
+›
+³
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.java‰ ‰(
+%2"
+__annotate*
+java.lang.Override*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandlerˆ
+…
+³
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaŠB Š(I7
+handler,com.google.gwt.event.dom.client.ClickHandler"__annotation*
+
+%2*
+1*ý
+1³
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.java‹ ‹(ƒ
+€
+³
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.java‹& ‹(:3
+%0-com.google.gwt.event.dom.client.DomEvent$Type"ccom.google.gwt.event.dom.client.ClickEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*.",
+*com.google.gwt.event.dom.client.ClickEventÉÆ
+³
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.java‹ ‹(;5
+%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*:8
+6org.gwtbootstrap3.client.ui.base.button.AbstractButton*9
+7
+handler,com.google.gwt.event.dom.client.ClickHandler*5
+3
+%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"ï
+³
+¦D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.java‹ ‹(<7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:7
+handler,com.google.gwt.event.dom.client.ClickHandlerB:8
+6org.gwtbootstrap3.client.ui.base.button.AbstractButton>>>>>>> .r13

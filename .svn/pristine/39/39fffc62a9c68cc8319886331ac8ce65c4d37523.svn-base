@@ -1,0 +1,70 @@
+
+<<<<<<< .mine
+korg.gwtbootstrap3.client.shared.event.CarouselSlideEvent#getNativeEvent()Lcom/google/gwt/user/client/Event;œ
+‘C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlideEvent.java5 5("1*
+1œ
+‘C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlideEvent.java6 6(Ÿ
+œ
+œ
+‘C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlideEvent.java6 6(&
+%0 com.google.gwt.user.client.Event"__id*M*K:
+8org.gwtbootstrap3.client.shared.event.CarouselSlideEvent"
+nativeEvent"É
+œ
+‘C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlideEvent.java6 6((
+&
+%0 com.google.gwt.user.client.EventB<:
+8org.gwtbootstrap3.client.shared.event.CarouselSlideEvent||||||| .r11
+>org.gwtbootstrap3.client.ui.base.AbstractListItem#isEnabled()Z•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java> >("1*Ì	
+1•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java? ?(ÃÀ
+•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java?* ?(8
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*53
+1org.gwtbootstrap3.client.ui.base.AbstractListItem2getStyleName()Á
+¾
+•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java?: ?(I
+%1java.lang.String"__id*
+""
+þ
+•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java? ?(J
+%2boolean"horg.gwtbootstrap3.client.ui.base.helper.StyleHelper#containsStyle(Ljava/lang/String;Ljava/lang/String;)Z*7"5
+3org.gwtbootstrap3.client.ui.base.helper.StyleHelper*
+
+%0java.lang.String*
+
+%1java.lang.String" 
+•
+ŠC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java? ?(K
+""B53
+1org.gwtbootstrap3.client.ui.base.AbstractListItem=======
+>org.gwtbootstrap3.client.ui.base.AbstractListItem#isEnabled()Z¬
+¡D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java> >("1*¿
+
+1¬
+¡D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java? ?(Ú×
+¬
+¡D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java?* ?(8
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*53
+1org.gwtbootstrap3.client.ui.base.AbstractListItem2getStyleName()Ø
+Õ
+¬
+¡D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java?: ?(I
+%1java.lang.String"__id*
+""˜
+•
+¬
+¡D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java? ?(J
+%2boolean"horg.gwtbootstrap3.client.ui.base.helper.StyleHelper#containsStyle(Ljava/lang/String;Ljava/lang/String;)Z*7"5
+3org.gwtbootstrap3.client.ui.base.helper.StyleHelper*
+
+%0java.lang.String*
+
+%1java.lang.String"·
+¬
+¡D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.java? ?(K
+""B53
+1org.gwtbootstrap3.client.ui.base.AbstractListItem>>>>>>> .r13

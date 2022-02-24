@@ -1,0 +1,47 @@
+
+`org.gwtbootstrap3.client.ui.base.AbstractTooltip#remove(Lcom/google/gwt/user/client/ui/Widget;)Z­
+ D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.java³ ³("startingBlock*î
+2­
+ D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.java¶ ¶("¸
+­
+ D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.java¶ ¶(
+""*å
+3­
+ D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.javaµ µ(§
+¤
+­
+ D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.javaµ µ(*
+%0$com.google.gwt.user.client.ui.Widget"__id*@*>2
+0org.gwtbootstrap3.client.ui.base.AbstractTooltip"
+widget*
+2
+1*È
+startingBlock­
+ D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.java³ ³()Š
+‡
+­
+ D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.java² ²(
+%2"
+__annotate*
+java.lang.Override*+
+)
+w$com.google.gwt.user.client.ui.Widgetô
+ñ
+­
+ D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.java³' ³(()
+w$com.google.gwt.user.client.ui.Widget"__annotation*
+
+%2*
+3*ª
+1­
+ D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.java¹ ¹(¹¶
+­
+ D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.java¹ ¹(
+
+%1void"9org.gwtbootstrap3.client.ui.base.AbstractTooltip#clear()V*42
+0org.gwtbootstrap3.client.ui.base.AbstractTooltip2clear()"¸
+­
+ D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTooltip.javaº º(
+"":)
+w$com.google.gwt.user.client.ui.WidgetB42
+0org.gwtbootstrap3.client.ui.base.AbstractTooltip

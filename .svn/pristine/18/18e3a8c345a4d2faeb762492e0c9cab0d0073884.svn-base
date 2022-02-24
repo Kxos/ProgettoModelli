@@ -1,0 +1,47 @@
+
+Uorg.gwtbootstrap3.client.ui.form.validator.FutureValidator#isValid(Ljava/util/Date;)Zö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/FutureValidator.java: :("startingBlock*
+2ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/FutureValidator.java;  ;(%∆√
+ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/FutureValidator.java;0 ;(4
+%0java.util.Date"java.util.Dateÿ
+’
+ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/FutureValidator.java;, ;(6
+%1"java.util.Date#<init>()V*
+
+%0java.util.Date§°
+ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/FutureValidator.java;  ;(7
+%2boolean"'java.util.Date#after(Ljava/util/Date;)Z*
+
+valuejava.util.Date*
+
+%0java.util.Date2after(Ljava/util/Date;)*
+1*Ó
+startingBlockö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/FutureValidator.java: :(&Â
+‚
+ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/FutureValidator.java9 9(
+%3"
+__annotate*
+java.lang.Override*
+
+valuejava.util.Dateœ
+Ã
+ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/FutureValidator.java:  :(%
+valuejava.util.Date"__annotation*
+
+%3*
+2
+1*»
+1ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/FutureValidator.java; ;(8"•
+ö
+èC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/FutureValidator.java; ;(8
+"":
+valuejava.util.DateB><
+:org.gwtbootstrap3.client.ui.form.validator.FutureValidator

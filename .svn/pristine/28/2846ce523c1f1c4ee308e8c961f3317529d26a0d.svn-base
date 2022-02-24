@@ -1,0 +1,21 @@
+
+org.gwtbootstrap3.client.ui.base.AbstractAnchorListItem#getBadgePosition()Lorg/gwtbootstrap3/client/ui/constants/BadgePosition;ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaK K()"1*ó
+1ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaL L(ñ
+ì
+ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaL L((
+%0"org.gwtbootstrap3.client.ui.Anchor"__id*G*E9
+7org.gwtbootstrap3.client.ui.base.AbstractAnchorListItem"
+anchorÑÅ
+ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaL L((9
+%13org.gwtbootstrap3.client.ui.constants.BadgePosition"jorg.gwtbootstrap3.client.ui.Anchor#getBadgePosition()Lorg/gwtbootstrap3/client/ui/constants/BadgePosition;**
+(
+%0"org.gwtbootstrap3.client.ui.Anchor2getBadgePosition()"◊
+ó
+åC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractAnchorListItem.javaL L();
+9
+%13org.gwtbootstrap3.client.ui.constants.BadgePositionB;9
+7org.gwtbootstrap3.client.ui.base.AbstractAnchorListItem

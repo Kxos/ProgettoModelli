@@ -1,0 +1,20 @@
+
+7org.gwtbootstrap3.client.ui.SuggestBox#getAllowBlank()Z‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaá á( "1*û
+1‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaâ â(•
+’
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaâ â(@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin"__id*>*<(
+&org.gwtbootstrap3.client.ui.SuggestBox"
+validatorMixin¾»
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaâ â(-
+%1boolean"Korg.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin#getAllowBlank()Z*B
+@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin2getAllowBlank()"’
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaâ â(.
+""B*(
+&org.gwtbootstrap3.client.ui.SuggestBox

@@ -1,0 +1,39 @@
+
+jorg.gwtbootstrap3.client.ui.ScrollSpy#scrollSpy(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/ScrollSpy;„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.java@ @(%"1*ì
+1„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA' A(/ª
+§
+„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA' A(5(
+%0"com.google.gwt.dom.client.Document"Lcom.google.gwt.dom.client.Document#get()Lcom/google/gwt/dom/client/Document;*&"$
+"com.google.gwt.dom.client.DocumentÃÀ
+„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA' A(?+
+%1%com.google.gwt.dom.client.BodyElement"Scom.google.gwt.dom.client.Document#getBody()Lcom/google/gwt/dom/client/BodyElement;**
+(
+%0"com.google.gwt.dom.client.Document2	getBody()ÕÒ
+„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA' A(F1
+%2+com.google.gwt.core.client.JavaScriptObject"_com.google.gwt.core.client.JavaScriptObject#cast()Lcom/google/gwt/core/client/JavaScriptObject;*-
++
+%1%com.google.gwt.dom.client.BodyElement2cast()ÞÛ
+„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA A(+
+%3%org.gwtbootstrap3.client.ui.ScrollSpy"%org.gwtbootstrap3.client.ui.ScrollSpyú
+÷
+„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA A(Q
+%4"dorg.gwtbootstrap3.client.ui.ScrollSpy#<init>(Lcom/google/gwt/dom/client/Element;Ljava/lang/String;)V*-
++
+%3%org.gwtbootstrap3.client.ui.ScrollSpy*3
+1
+%2+com.google.gwt.core.client.JavaScriptObject*
+
+selectorjava.lang.String"¶
+„
+zC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ScrollSpy.javaA A(R-
++
+%3%org.gwtbootstrap3.client.ui.ScrollSpy:
+selectorjava.lang.StringB)"'
+%org.gwtbootstrap3.client.ui.ScrollSpy

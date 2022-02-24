@@ -1,0 +1,21 @@
+
+korg.gwtbootstrap3.client.ui.CheckBox#getDirectionEstimator()Lcom/google/gwt/i18n/shared/DirectionEstimator;¡
+”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaê ê(3"1*æ
+1¡
+”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaë ë($­
+ª
+¡
+”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaë ë($9
+%03com.google.gwt.user.client.ui.DirectionalTextHelper"__id*C*A&
+$org.gwtbootstrap3.client.ui.CheckBox"
+directionalTextHelper®«
+¡
+”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaë ë(<3
+%1-com.google.gwt.i18n.shared.DirectionEstimator"zcom.google.gwt.user.client.ui.DirectionalTextHelper#getDirectionEstimator()Lcom/google/gwt/i18n/shared/DirectionEstimator;*;
+9
+%03com.google.gwt.user.client.ui.DirectionalTextHelper2getDirectionEstimator()"Û
+¡
+”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaë ë(=5
+3
+%1-com.google.gwt.i18n.shared.DirectionEstimatorB(&
+$org.gwtbootstrap3.client.ui.CheckBox

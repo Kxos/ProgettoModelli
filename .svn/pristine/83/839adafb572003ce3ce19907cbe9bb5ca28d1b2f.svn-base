@@ -1,0 +1,22 @@
+
+Eorg.gwtbootstrap3.client.ui.CheckBox#getFormValue()Ljava/lang/String;¡
+”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaø ø("1*Â
+1¡
+”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaù ù(”
+‘
+¡
+”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaù ù(,
+%0&com.google.gwt.dom.client.InputElement"__id*7*5&
+$org.gwtbootstrap3.client.ui.CheckBox"
+	inputElemÀ½
+¡
+”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaù ù(#
+%1java.lang.String"Ccom.google.gwt.dom.client.InputElement#getValue()Ljava/lang/String;*.
+,
+%0&com.google.gwt.dom.client.InputElement2
+getValue()"¾
+¡
+”D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaù ù($
+
+%1java.lang.StringB(&
+$org.gwtbootstrap3.client.ui.CheckBox

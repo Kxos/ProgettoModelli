@@ -1,0 +1,21 @@
+
+torg.gwtbootstrap3.client.ui.base.ValueBoxBase#getErrorHandler()Lorg/gwtbootstrap3/client/ui/form/error/ErrorHandler;è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.javaâ â('"1*∏
+1è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.javaä ä( •
+¢
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.javaä ä( >
+%08org.gwtbootstrap3.client.ui.base.mixin.ErrorHandlerMixin"__id*H*F/
+-org.gwtbootstrap3.client.ui.base.ValueBoxBase"
+errorHandlerMixin¶£
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.javaä ä(29
+%13org.gwtbootstrap3.client.ui.form.error.ErrorHandler"org.gwtbootstrap3.client.ui.base.mixin.ErrorHandlerMixin#getErrorHandler()Lorg/gwtbootstrap3/client/ui/form/error/ErrorHandler;*@
+>
+%08org.gwtbootstrap3.client.ui.base.mixin.ErrorHandlerMixin2getErrorHandler()"œ
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.javaä ä(3;
+9
+%13org.gwtbootstrap3.client.ui.form.error.ErrorHandlerB1/
+-org.gwtbootstrap3.client.ui.base.ValueBoxBase

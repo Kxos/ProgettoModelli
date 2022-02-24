@@ -1,0 +1,40 @@
+
+vorg.gwtbootstrap3.client.ui.base.ValueBoxBase#removeValidator(Lorg/gwtbootstrap3/client/ui/form/validator/Validator;)Z“
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java± ±(""startingBlock*ª
+startingBlock“
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java±" ±(:ˆ
+…
+“
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java° °(
+%2"
+__annotate*
+java.lang.Override*C
+A
+	validator4org.gwtbootstrap3.client.ui.form.validator.Validatorò
+ï
+“
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java±0 ±(9A
+	validator4org.gwtbootstrap3.client.ui.form.validator.Validator"__annotation*
+
+%2*
+1*ê
+1“
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java² ²(¨
+¥
+“
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java² ²(@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin"__id*E*C/
+-org.gwtbootstrap3.client.ui.base.ValueBoxBase"
+validatorMixin‚ÿ
+“
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java² ²(8
+%1boolean"…org.gwtbootstrap3.client.ui.base.mixin.DefaultValidatorMixin#removeValidator(Lorg/gwtbootstrap3/client/ui/form/validator/Validator;)Z*B
+@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin*C
+A
+	validator4org.gwtbootstrap3.client.ui.form.validator.Validator2GremoveValidator(Lorg/gwtbootstrap3/client/ui/form/validator/Validator;)"ž
+“
+†C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java² ²(9
+"":A
+	validator4org.gwtbootstrap3.client.ui.form.validator.ValidatorB1/
+-org.gwtbootstrap3.client.ui.base.ValueBoxBase

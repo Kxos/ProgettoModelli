@@ -1,0 +1,26 @@
+
+åorg.gwtbootstrap3.client.ui.constants.PaginationSize#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/PaginationSize;ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/PaginationSize.java.! .(."1*È
+1ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/PaginationSize.java/ /(Ë
+Â
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/PaginationSize.java/I /(M:
+%04org.gwtbootstrap3.client.ui.constants.PaginationSize"__id*
+""Å
+˛
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/PaginationSize.java/ /(N:
+%14org.gwtbootstrap3.client.ui.constants.PaginationSize"Öorg.gwtbootstrap3.client.ui.base.helper.EnumHelper#fromStyleName(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Enum;)Ljava/lang/Enum;*6"4
+2org.gwtbootstrap3.client.ui.base.helper.EnumHelper*
+
+	styleNamejava.lang.String*
+""*<
+:
+%04org.gwtbootstrap3.client.ui.constants.PaginationSize"Ÿ
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/PaginationSize.java/ /(O<
+:
+%14org.gwtbootstrap3.client.ui.constants.PaginationSize:
+	styleNamejava.lang.StringB8"6
+4org.gwtbootstrap3.client.ui.constants.PaginationSize

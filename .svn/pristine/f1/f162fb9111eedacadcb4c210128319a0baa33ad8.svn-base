@@ -1,0 +1,21 @@
+
+forg.gwtbootstrap3.client.ui.Navbar#getPosition()Lorg/gwtbootstrap3/client/ui/constants/NavbarPosition;Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.javaB B(%"1*ò
+1Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.javaC C(†ù
+Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.javaC, C(:
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*&$
+"org.gwtbootstrap3.client.ui.Navbar2getStyleName()¶
+£
+Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.javaC C(;:
+%14org.gwtbootstrap3.client.ui.constants.NavbarPosition"åorg.gwtbootstrap3.client.ui.constants.NavbarPosition#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/NavbarPosition;*8"6
+4org.gwtbootstrap3.client.ui.constants.NavbarPosition*
+
+%0java.lang.String"¬
+Å
+wC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.javaC C(<<
+:
+%14org.gwtbootstrap3.client.ui.constants.NavbarPositionB&$
+"org.gwtbootstrap3.client.ui.Navbar

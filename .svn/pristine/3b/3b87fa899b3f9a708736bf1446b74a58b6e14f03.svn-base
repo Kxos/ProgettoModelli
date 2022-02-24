@@ -1,0 +1,22 @@
+
+Gorg.gwtbootstrap3.client.ui.CarouselControl#getHref()Ljava/lang/String;¦
+›D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselControl.javaX X("1*ß
+1¦
+›D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselControl.javaY Y(¢
+Ÿ
+¦
+›D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselControl.javaY Y(-
+%0'com.google.gwt.dom.client.AnchorElement"__id*?*=-
++org.gwtbootstrap3.client.ui.CarouselControl"
+
+anchorElemÅÂ
+¦
+›D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselControl.javaY Y(#
+%1java.lang.String"Ccom.google.gwt.dom.client.AnchorElement#getHref()Ljava/lang/String;*/
+-
+%0'com.google.gwt.dom.client.AnchorElement2	getHref()"Ã
+¦
+›D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselControl.javaY Y($
+
+%1java.lang.StringB/-
++org.gwtbootstrap3.client.ui.CarouselControl

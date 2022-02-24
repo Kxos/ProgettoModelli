@@ -1,0 +1,21 @@
+
+Xorg.gwtbootstrap3.client.ui.Anchor#getPull()Lorg/gwtbootstrap3/client/ui/constants/Pull;‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaá á("1*Â
+1‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaâ â(‚
+ÿ
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaâ â(6
+%00org.gwtbootstrap3.client.ui.base.mixin.PullMixin"__id*5*3$
+"org.gwtbootstrap3.client.ui.Anchor"
+	pullMixinìé
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaâ â("0
+%1*org.gwtbootstrap3.client.ui.constants.Pull"forg.gwtbootstrap3.client.ui.base.mixin.PullMixin#getPull()Lorg/gwtbootstrap3/client/ui/constants/Pull;*8
+6
+%00org.gwtbootstrap3.client.ui.base.mixin.PullMixin2	getPull()"¾
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaâ â(#2
+0
+%1*org.gwtbootstrap3.client.ui.constants.PullB&$
+"org.gwtbootstrap3.client.ui.Anchor

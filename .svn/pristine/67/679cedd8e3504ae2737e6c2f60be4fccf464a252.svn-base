@@ -1,0 +1,91 @@
+
+<<<<<<< .mine
+norg.gwtbootstrap3.client.ui.base.mixin.IconTextMixin#getIcon()Lorg/gwtbootstrap3/client/ui/constants/IconType;˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java^ ^("4*³
+2˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java_% _()
+
+˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java_% _()&
+%4 org.gwtbootstrap3.client.ui.Icon"__id*B*@6
+4org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin"
+iconåâ
+˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java_% _(34
+%3.org.gwtbootstrap3.client.ui.constants.IconType"Zorg.gwtbootstrap3.client.ui.Icon#getType()Lorg/gwtbootstrap3/client/ui/constants/IconType;*(
+&
+%4 org.gwtbootstrap3.client.ui.Icon2	getType()’
+
+˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java_% _(34
+%1.org.gwtbootstrap3.client.ui.constants.IconType"__id*6
+4
+%3.org.gwtbootstrap3.client.ui.constants.IconType*
+1*”
+3˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java_ _("î
+ë
+˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java_ _("4
+%1.org.gwtbootstrap3.client.ui.constants.IconType"__id*
+
+%2
+<nulltype>*
+1*¹
+4˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java_ _(
+
+˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java_ _(&
+%0 org.gwtbootstrap3.client.ui.Icon"__id*B*@6
+4org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin"
+icon*
+2
+3*ô
+1˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java_ _(4"Ó
+˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.java_ _(46
+4
+%1.org.gwtbootstrap3.client.ui.constants.IconTypeB86
+4org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin||||||| .r11
+Eorg.gwtbootstrap3.client.ui.ListGroupItem#getHTML()Ljava/lang/String;
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java5 5("1*í
+1
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java6 6(ÿ
+ü
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java6 6(+
+%0%org.gwtbootstrap3.client.ui.html.Span"__id*7*5+
+)org.gwtbootstrap3.client.ui.ListGroupItem"
+span¨¥
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java6 6(
+%1java.lang.String"Aorg.gwtbootstrap3.client.ui.html.Span#getHTML()Ljava/lang/String;*-
++
+%0%org.gwtbootstrap3.client.ui.html.Span2	getHTML()"ª
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java6 6(
+
+%1java.lang.StringB-+
+)org.gwtbootstrap3.client.ui.ListGroupItem=======
+Eorg.gwtbootstrap3.client.ui.ListGroupItem#getHTML()Ljava/lang/String;¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java5 5("1*É
+1¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java6 6(–
+“
+¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java6 6(+
+%0%org.gwtbootstrap3.client.ui.html.Span"__id*7*5+
+)org.gwtbootstrap3.client.ui.ListGroupItem"
+span¿¼
+¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java6 6(
+%1java.lang.String"Aorg.gwtbootstrap3.client.ui.html.Span#getHTML()Ljava/lang/String;*-
++
+%0%org.gwtbootstrap3.client.ui.html.Span2	getHTML()"Á
+¤
+™D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ListGroupItem.java6 6(
+
+%1java.lang.StringB-+
+)org.gwtbootstrap3.client.ui.ListGroupItem>>>>>>> .r13

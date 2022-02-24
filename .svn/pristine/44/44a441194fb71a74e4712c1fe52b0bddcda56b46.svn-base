@@ -1,0 +1,42 @@
+
+¨org.gwtbootstrap3.client.ui.LinkedGroupItem#addDoubleClickHandler(Lcom/google/gwt/event/dom/client/DoubleClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;‹
+€C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javaO O(4"startingBlock*Š
+startingBlock‹
+€C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javaO4 O(Vü
+ù
+‹
+€C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javaN N(
+%2"
+__annotate*
+java.lang.Override*?
+=
+handler2com.google.gwt.event.dom.client.DoubleClickHandleræ
+ã
+‹
+€C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javaON O(U=
+handler2com.google.gwt.event.dom.client.DoubleClickHandler"__annotation*
+
+%2*
+1*ä
+
+1‹
+€C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javaP P(ç
+ä
+‹
+€C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javaP& P(@3
+%0-com.google.gwt.event.dom.client.DomEvent$Type"icom.google.gwt.event.dom.client.DoubleClickEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*4"2
+0com.google.gwt.event.dom.client.DoubleClickEventœ™
+‹
+€C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javaP P(A5
+%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*/-
++org.gwtbootstrap3.client.ui.LinkedGroupItem*?
+=
+handler2com.google.gwt.event.dom.client.DoubleClickHandler*5
+3
+%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"Ç
+‹
+€C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/LinkedGroupItem.javaP P(B7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:=
+handler2com.google.gwt.event.dom.client.DoubleClickHandlerB/-
++org.gwtbootstrap3.client.ui.LinkedGroupItem

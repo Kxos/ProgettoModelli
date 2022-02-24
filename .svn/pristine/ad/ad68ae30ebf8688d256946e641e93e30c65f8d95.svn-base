@@ -1,0 +1,70 @@
+
+<<<<<<< .mine
+*org.gwtbootstrap3.client.ui.Icon#isSpin()Zƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javau u("1*á
+1ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javav v(¯
+¬
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javav) v(9
+%0java.lang.String"__id*
+"" 
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javav; v(I
+%1java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*$"
+ org.gwtbootstrap3.client.ui.Icon2getStyleName()ï
+ì
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javav v(J
+%2boolean"horg.gwtbootstrap3.client.ui.base.helper.StyleHelper#containsStyle(Ljava/lang/String;Ljava/lang/String;)Z*7"5
+3org.gwtbootstrap3.client.ui.base.helper.StyleHelper*
+||||||| .r11
+^org.gwtbootstrap3.client.ui.Navbar#getType()Lorg/gwtbootstrap3/client/ui/constants/NavbarType;…
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.java: :("1*”
+1…
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.java; ;(¤¡
+…
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.java;( ;(6
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*&$
+"org.gwtbootstrap3.client.ui.Navbar2getStyleName()š
+—
+…
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.java; ;(76
+%10org.gwtbootstrap3.client.ui.constants.NavbarType"„org.gwtbootstrap3.client.ui.constants.NavbarType#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/NavbarType;*4"2
+0org.gwtbootstrap3.client.ui.constants.NavbarType*
+=======
+^org.gwtbootstrap3.client.ui.Navbar#getType()Lorg/gwtbootstrap3/client/ui/constants/NavbarType;
+’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.java: :("1*ô
+1
+’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.java; ;(¼¹
+
+’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.java;( ;(6
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*&$
+"org.gwtbootstrap3.client.ui.Navbar2getStyleName()²
+¯
+
+’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.java; ;(76
+%10org.gwtbootstrap3.client.ui.constants.NavbarType"„org.gwtbootstrap3.client.ui.constants.NavbarType#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/NavbarType;*4"2
+0org.gwtbootstrap3.client.ui.constants.NavbarType*
+>>>>>>> .r13
+
+<<<<<<< .mine
+%0java.lang.String*
+
+%1java.lang.String"Ž
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javav v(K
+""B$"
+ org.gwtbootstrap3.client.ui.Icon||||||| .r11
+%0java.lang.String"Â
+…
+{C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.java; ;(88
+6
+%10org.gwtbootstrap3.client.ui.constants.NavbarTypeB&$
+"org.gwtbootstrap3.client.ui.Navbar=======
+%0java.lang.String"Ú
+
+’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Navbar.java; ;(88
+6
+%10org.gwtbootstrap3.client.ui.constants.NavbarTypeB&$
+"org.gwtbootstrap3.client.ui.Navbar>>>>>>> .r13

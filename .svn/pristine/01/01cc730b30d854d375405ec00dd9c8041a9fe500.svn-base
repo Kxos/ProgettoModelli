@@ -1,0 +1,87 @@
+
+Uorg.gwtbootstrap3.client.ui.form.validator.SizeValidator#isValid(Ljava/lang/Object;)Zò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.java> >("startingBlock*Ø
+2ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaI% I(+â
+Ü
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaI/ I(7
+%5java.lang.Integer"__id*J*H:
+8org.gwtbootstrap3.client.ui.form.validator.SizeValidator"
+
+maxValue*
+1*≤
+3ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaI I(â
+Ü
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaI I(!
+%4java.lang.Integer"__id*J*H:
+8org.gwtbootstrap3.client.ui.form.validator.SizeValidator"
+
+minValue*
+2
+1*’
+startingBlockò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.java> >(#÷
+”
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.java= =(
+%6"
+__annotate*
+java.lang.Override*
+
+
+valueT¿
+Ω
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.java> >("
+
+valueT"__annotation*
+
+%6*
+3
+4
+8
+10*ë
+4ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaG G(ˇ¸
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaG G(%
+%2java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
+
+
+valueT2
+toString()ÈÊ
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaG G(.	
+%3int"java.lang.String#length()I*
+
+%2java.lang.String2length()*
+3*É
+8ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaC& C(+›⁄
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaC C(3	
+%1int"java.util.Collection#size()I*
+
+
+valueT2size()*
+3*˝
+10ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaA" A('÷”
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaA A(/	
+%0int"java.util.Map#size()I*
+
+
+valueT2size()*
+3*ƒ
+1ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaI I(8"£
+ò
+çC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/SizeValidator.javaI I(8
+"":
+
+valueTB<:
+8org.gwtbootstrap3.client.ui.form.validator.SizeValidator

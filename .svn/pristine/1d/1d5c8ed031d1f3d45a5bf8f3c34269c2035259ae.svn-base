@@ -1,0 +1,42 @@
+
+¶org.gwtbootstrap3.client.ui.ThumbnailLink#addDoubleClickHandler(Lcom/google/gwt/event/dom/client/DoubleClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;ç
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javae e(4"startingBlock*ê
+startingBlockç
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javae4 e(V˛
+˚
+ç
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javad d(
+%2"
+__annotate*
+java.lang.Override*?
+=
+handler2com.google.gwt.event.dom.client.DoubleClickHandlerË
+Â
+ç
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaeN e(U=
+handler2com.google.gwt.event.dom.client.DoubleClickHandler"__annotation*
+
+%2*
+1*Í
+
+1ç
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaf f(È
+Ê
+ç
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaf& f(@3
+%0-com.google.gwt.event.dom.client.DomEvent$Type"icom.google.gwt.event.dom.client.DoubleClickEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*4"2
+0com.google.gwt.event.dom.client.DoubleClickEventúô
+ç
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaf f(A5
+%1/com.google.gwt.event.shared.HandlerRegistration"æcom.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*-+
+)org.gwtbootstrap3.client.ui.ThumbnailLink*?
+=
+handler2com.google.gwt.event.dom.client.DoubleClickHandler*5
+3
+%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"…
+ç
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ThumbnailLink.javaf f(B7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:=
+handler2com.google.gwt.event.dom.client.DoubleClickHandlerB-+
+)org.gwtbootstrap3.client.ui.ThumbnailLink

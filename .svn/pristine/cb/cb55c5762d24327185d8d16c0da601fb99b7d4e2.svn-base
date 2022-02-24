@@ -1,0 +1,21 @@
+
+@org.gwtbootstrap3.client.ui.gwt.Widget#getId()Ljava/lang/String;â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/Widget.java1 1("1*Ù
+1â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/Widget.java2 2(Ñ
+Å
+â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/Widget.java2 2(4
+%0.org.gwtbootstrap3.client.ui.base.mixin.IdMixin"__id*7*5(
+&org.gwtbootstrap3.client.ui.gwt.Widget"	
+idMixin≤Ø
+â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/Widget.java2 2(
+%1java.lang.String"Horg.gwtbootstrap3.client.ui.base.mixin.IdMixin#getId()Ljava/lang/String;*6
+4
+%0.org.gwtbootstrap3.client.ui.base.mixin.IdMixin2getId()"¶
+â
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/Widget.java2 2(
+
+%1java.lang.StringB*(
+&org.gwtbootstrap3.client.ui.gwt.Widget

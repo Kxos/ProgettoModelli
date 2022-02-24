@@ -1,0 +1,26 @@
+
+Dorg.gwtbootstrap3.client.ui.Input#getPlaceholder()Ljava/lang/String;Ä
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Input.javaU U( "1*ı
+1Ä
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Input.javaV V(æª
+Ä
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Input.javaV V((
+%0"com.google.gwt.user.client.Element"Wcom.google.gwt.user.client.ui.UIObject#getElement()Lcom/google/gwt/user/client/Element;*%#
+!org.gwtbootstrap3.client.ui.Input2getElement()¨
+©
+Ä
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Input.javaV) V(4
+%1java.lang.String"__id*
+""‹Ÿ
+Ä
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Input.javaV V(5
+%2java.lang.String"Tcom.google.gwt.dom.client.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;**
+(
+%0"com.google.gwt.user.client.Element*
+
+%1java.lang.String2 getAttribute(Ljava/lang/String;)"ù
+Ä
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Input.javaV V(6
+
+%2java.lang.StringB%#
+!org.gwtbootstrap3.client.ui.Input

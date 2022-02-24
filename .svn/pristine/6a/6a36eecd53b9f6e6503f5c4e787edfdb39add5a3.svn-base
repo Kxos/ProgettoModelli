@@ -1,0 +1,41 @@
+
+´org.gwtbootstrap3.client.ui.base.button.AbstractButton#addMouseUpHandler(Lcom/google/gwt/event/dom/client/MouseUpHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;≥
+¶D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÈ È(0"startingBlock*˙
+startingBlock≥
+¶D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÈ0 È(N†
+ù
+≥
+¶D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaË Ë(
+%2"
+__annotate*
+java.lang.Override*;
+9
+handler.com.google.gwt.event.dom.client.MouseUpHandlerä
+á
+≥
+¶D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÈF È(M9
+handler.com.google.gwt.event.dom.client.MouseUpHandler"__annotation*
+
+%2*
+1*É
+1≥
+¶D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÍ Í(á
+Ñ
+≥
+¶D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÍ& Í(<3
+%0-com.google.gwt.event.dom.client.DomEvent$Type"ecom.google.gwt.event.dom.client.MouseUpEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*0".
+,com.google.gwt.event.dom.client.MouseUpEventÀ»
+≥
+¶D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÍ Í(=5
+%1/com.google.gwt.event.shared.HandlerRegistration"æcom.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*:8
+6org.gwtbootstrap3.client.ui.base.button.AbstractButton*;
+9
+handler.com.google.gwt.event.dom.client.MouseUpHandler*5
+3
+%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"Ô
+≥
+¶D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/button/AbstractButton.javaÍ Í(>7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:9
+handler.com.google.gwt.event.dom.client.MouseUpHandlerB:8
+6org.gwtbootstrap3.client.ui.base.button.AbstractButton

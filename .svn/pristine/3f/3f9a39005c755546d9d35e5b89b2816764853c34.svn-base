@@ -1,0 +1,19 @@
+
+>org.gwtbootstrap3.client.ui.Anchor#getHTML()Ljava/lang/String;Ÿ
+’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.javaŸ Ÿ("1*…
+1Ÿ
+’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java   (ÞÛ
+Ÿ
+’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java   ((
+%0"com.google.gwt.user.client.Element"Wcom.google.gwt.user.client.ui.UIObject#getElement()Lcom/google/gwt/user/client/Element;*&$
+"org.gwtbootstrap3.client.ui.Anchor2getElement()½º
+Ÿ
+’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java   (*
+%1java.lang.String"Bcom.google.gwt.dom.client.Element#getInnerHTML()Ljava/lang/String;**
+(
+%0"com.google.gwt.user.client.Element2getInnerHTML()"¼
+Ÿ
+’D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Anchor.java   (+
+
+%1java.lang.StringB&$
+"org.gwtbootstrap3.client.ui.Anchor

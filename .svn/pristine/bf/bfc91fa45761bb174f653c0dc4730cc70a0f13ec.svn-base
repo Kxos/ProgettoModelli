@@ -1,0 +1,16 @@
+
+corg.gwtbootstrap3.client.shared.event.ModalShownEvent#getModal()Lorg/gwtbootstrap3/client/ui/Modal;ï
+äC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalShownEvent.java0 0("1*Ù
+1ï
+äC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalShownEvent.java1 1(ê
+ç
+ï
+äC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalShownEvent.java1 1('
+%0!org.gwtbootstrap3.client.ui.Modal"__id*D*B7
+5org.gwtbootstrap3.client.shared.event.ModalShownEvent"
+modal"√
+ï
+äC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/ModalShownEvent.java1 1()
+'
+%0!org.gwtbootstrap3.client.ui.ModalB97
+5org.gwtbootstrap3.client.shared.event.ModalShownEvent

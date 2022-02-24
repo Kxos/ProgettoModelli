@@ -1,0 +1,38 @@
+
+<<<<<<< .mine
+Aorg.gwtbootstrap3.client.ui.FormLabel#getShowRequiredIndicator()Zˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/FormLabel.javaY Y(+"1*¤
+1ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/FormLabel.javaZ Z($"“
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/FormLabel.javaZ Z(%
+""B)'
+%org.gwtbootstrap3.client.ui.FormLabel||||||| .r11
+qorg.gwtbootstrap3.client.shared.event.TabShowEvent#getAssociatedType()Lcom/google/gwt/event/shared/GwtEvent$Type;–
+‹C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TabShowEvent.java:  :(1"1*É
+1–
+‹C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TabShowEvent.java; ;(Û
+Ø
+–
+‹C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TabShowEvent.java; ;(/
+%0)com.google.gwt.event.shared.GwtEvent$Type"__id*
+"""Ì
+–
+‹C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TabShowEvent.java; ;(1
+/
+%0)com.google.gwt.event.shared.GwtEvent$TypeB64
+2org.gwtbootstrap3.client.shared.event.TabShowEvent=======
+horg.gwtbootstrap3.client.ui.gwt.DataGrid$StyleAdapter#dataGridSortedHeaderDescending()Ljava/lang/String;¥
+˜D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/DataGrid.javaÍ Í(4"1*Ä
+1¥
+˜D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/DataGrid.javaÎ Î(Ñ
+Î
+¥
+˜D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/DataGrid.javaÎ Î(
+%0java.lang.String"__id*
+"""Â
+¥
+˜D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/DataGrid.javaÎ Î(
+
+%0java.lang.StringB97
+5org.gwtbootstrap3.client.ui.gwt.DataGrid$StyleAdapter>>>>>>> .r13

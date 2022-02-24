@@ -1,0 +1,21 @@
+
+Uorg.gwtbootstrap3.client.ui.base.mixin.IconTextMixin#getBadgeText()Ljava/lang/String;±
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaÌ Ì("1*ý
+1±
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaÍ Í(«
+¨
+±
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaÍ Í('
+%0!org.gwtbootstrap3.client.ui.Badge"__id*C*A6
+4org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin"
+badgeÄÁ
+±
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaÍ Í(
+%1java.lang.String"=org.gwtbootstrap3.client.ui.Badge#getText()Ljava/lang/String;*)
+'
+%0!org.gwtbootstrap3.client.ui.Badge2	getText()"Î
+±
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaÍ Í(
+
+%1java.lang.StringB86
+4org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin

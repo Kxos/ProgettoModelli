@@ -1,0 +1,76 @@
+
+<<<<<<< .mine
+Corg.gwtbootstrap3.client.ui.gwt.HTMLPanel#getId()Ljava/lang/String;
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.javaH H("1*‡
+1
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.javaI I(‹
+ˆ
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.javaI I(4
+%0.org.gwtbootstrap3.client.ui.base.mixin.IdMixin"__id*:*8+
+)org.gwtbootstrap3.client.ui.gwt.HTMLPanel"	
+idMixin¶³
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.javaI I(
+%1java.lang.String"Horg.gwtbootstrap3.client.ui.base.mixin.IdMixin#getId()Ljava/lang/String;*6
+4
+%0.org.gwtbootstrap3.client.ui.base.mixin.IdMixin2getId()"ª
+
+‚C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/gwt/HTMLPanel.javaI I(
+||||||| .r11
+/org.gwtbootstrap3.client.ui.Icon#isStackBase()Zƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaU U("1*á
+1ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaV V(¯
+¬
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaV) V(?
+%0java.lang.String"__id*
+"" 
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaVA V(O
+%1java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*$"
+ org.gwtbootstrap3.client.ui.Icon2getStyleName()ï
+ì
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaV V(P
+%2boolean"horg.gwtbootstrap3.client.ui.base.helper.StyleHelper#containsStyle(Ljava/lang/String;Ljava/lang/String;)Z*7"5
+3org.gwtbootstrap3.client.ui.base.helper.StyleHelper*
+=======
+/org.gwtbootstrap3.client.ui.Icon#isStackBase()Z›
+D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaU U("1*Ù	
+1›
+D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaV V(Ç
+Ä
+›
+D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaV) V(?
+%0java.lang.String"__id*
+""¸µ
+›
+D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaVA V(O
+%1java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*$"
+ org.gwtbootstrap3.client.ui.Icon2getStyleName()‡
+„
+›
+D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaV V(P
+%2boolean"horg.gwtbootstrap3.client.ui.base.helper.StyleHelper#containsStyle(Ljava/lang/String;Ljava/lang/String;)Z*7"5
+3org.gwtbootstrap3.client.ui.base.helper.StyleHelper*
+>>>>>>> .r13
+
+<<<<<<< .mine
+%1java.lang.StringB-+
+)org.gwtbootstrap3.client.ui.gwt.HTMLPanel||||||| .r11
+%0java.lang.String*
+
+%1java.lang.String"Ž
+ƒ
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaV V(Q
+""B$"
+ org.gwtbootstrap3.client.ui.Icon=======
+%0java.lang.String*
+
+%1java.lang.String"¦
+›
+D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaV V(Q
+""B$"
+ org.gwtbootstrap3.client.ui.Icon>>>>>>> .r13

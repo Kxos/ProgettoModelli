@@ -1,0 +1,21 @@
+
+5org.gwtbootstrap3.client.ui.CarouselSlide#isActive()Zˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselSlide.java, ,("1*Ý
+1ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselSlide.java- -(Ž
+‹
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselSlide.java- -(8
+%02org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin"__id*>*<+
+)org.gwtbootstrap3.client.ui.CarouselSlide"
+activeMixin¥¢
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselSlide.java- -(%
+%1boolean">org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin#isActive()Z*:
+8
+%02org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin2
+isActive()"“
+ˆ
+~C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CarouselSlide.java- -(&
+""B-+
+)org.gwtbootstrap3.client.ui.CarouselSlide

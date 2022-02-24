@@ -1,0 +1,26 @@
+
+[org.gwtbootstrap3.client.ui.SubmitButton#createElement()Lcom/google/gwt/dom/client/Element;‡
+}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SubmitButton.java# #(#"1*¹
+
+1‡
+}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SubmitButton.java$ $(­
+ª
+‡
+}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SubmitButton.java$ $((
+%0"com.google.gwt.dom.client.Document"Lcom.google.gwt.dom.client.Document#get()Lcom/google/gwt/dom/client/Document;*&"$
+"com.google.gwt.dom.client.Documentîë
+‡
+}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SubmitButton.java$ $(9-
+%1'com.google.gwt.dom.client.ButtonElement"gcom.google.gwt.dom.client.Document#createSubmitButtonElement()Lcom/google/gwt/dom/client/ButtonElement;**
+(
+%0"com.google.gwt.dom.client.Document2createSubmitButtonElement()ÐÍ
+‡
+}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SubmitButton.java$ $(@'
+%2!com.google.gwt.dom.client.Element"_com.google.gwt.core.client.JavaScriptObject#cast()Lcom/google/gwt/core/client/JavaScriptObject;*/
+-
+%1'com.google.gwt.dom.client.ButtonElement2cast()"µ
+‡
+}C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SubmitButton.java$ $(A)
+'
+%2!com.google.gwt.dom.client.ElementB,*
+(org.gwtbootstrap3.client.ui.SubmitButton

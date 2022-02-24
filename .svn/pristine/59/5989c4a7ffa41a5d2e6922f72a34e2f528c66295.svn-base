@@ -1,0 +1,7 @@
+organization=source3
+projectKey=org.gwtbootstrap3:gwtbootstrap3-parent
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.27074
+dashboardUrl=https://sonarcloud.io/dashboard?id=org.gwtbootstrap3%3Agwtbootstrap3-parent
+ceTaskId=AX8sn8UYIaoasXb1klMx
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX8sn8UYIaoasXb1klMx

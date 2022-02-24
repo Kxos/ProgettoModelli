@@ -1,0 +1,21 @@
+
+=org.gwtbootstrap3.client.ui.Alert#getText()Ljava/lang/String;Ä
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Alert.javax x("1*±
+1Ä
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Alert.javay y(Í
+Á
+Ä
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Alert.javay y(+
+%0%org.gwtbootstrap3.client.ui.html.Text"__id*/*-#
+!org.gwtbootstrap3.client.ui.Alert"
+textõò
+Ä
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Alert.javay y(
+%1java.lang.String"Aorg.gwtbootstrap3.client.ui.html.Text#getText()Ljava/lang/String;*-
++
+%0%org.gwtbootstrap3.client.ui.html.Text2	getText()"ù
+Ä
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Alert.javay y(
+
+%1java.lang.StringB%#
+!org.gwtbootstrap3.client.ui.Alert

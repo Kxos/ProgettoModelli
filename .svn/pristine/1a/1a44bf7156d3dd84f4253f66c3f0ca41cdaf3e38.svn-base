@@ -1,0 +1,59 @@
+
+<<<<<<< .mine
+Zorg.gwtbootstrap3.client.ui.Icon#getFlip()Lorg/gwtbootstrap3/client/ui/constants/IconFlip;…
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java” ”("1*ˆ
+1…
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java• •(¢Ÿ
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java•& •(4
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*$"
+ org.gwtbootstrap3.client.ui.Icon2getStyleName()’
+
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java• •(54
+%1.org.gwtbootstrap3.client.ui.constants.IconFlip"€org.gwtbootstrap3.client.ui.constants.IconFlip#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/IconFlip;*2"0
+.org.gwtbootstrap3.client.ui.constants.IconFlip*
+||||||| .r11
+Porg.gwtbootstrap3.client.ui.base.mixin.IconTextMixin#getText()Ljava/lang/String;˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaS S("1*¤
+1˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaT T(•
+’
+˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaT T(+
+%0%org.gwtbootstrap3.client.ui.html.Text"__id*B*@6
+4org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin"
+text³°
+˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaT T(
+%1java.lang.String"Aorg.gwtbootstrap3.client.ui.html.Text#getText()Ljava/lang/String;*-
++
+%0%org.gwtbootstrap3.client.ui.html.Text2	getText()"µ
+˜
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaT T(
+=======
+Porg.gwtbootstrap3.client.ui.base.mixin.IconTextMixin#getText()Ljava/lang/String;¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaS S("1*€
+1¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaT T(¬
+©
+¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaT T(+
+%0%org.gwtbootstrap3.client.ui.html.Text"__id*B*@6
+4org.gwtbootstrap3.client.ui.base.mixin.IconTextMixin"
+textÊÇ
+¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaT T(
+%1java.lang.String"Aorg.gwtbootstrap3.client.ui.html.Text#getText()Ljava/lang/String;*-
++
+%0%org.gwtbootstrap3.client.ui.html.Text2	getText()"Ì
+¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/mixin/IconTextMixin.javaT T(
+>>>>>>> .r13
+
+%0java.lang.String"À
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.java• •(66
+4
+%1.org.gwtbootstrap3.client.ui.constants.IconFlipB$"
+ org.gwtbootstrap3.client.ui.Icon

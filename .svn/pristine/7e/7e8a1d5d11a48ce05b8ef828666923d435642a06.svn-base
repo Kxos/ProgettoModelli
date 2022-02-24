@@ -1,0 +1,21 @@
+
+iorg.gwtbootstrap3.client.ui.base.AbstractTextWidget#getPull()Lorg/gwtbootstrap3/client/ui/constants/Pull;•
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTextWidget.java   ("1*‹
+1•
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTextWidget.java¡ ¡(¡
+ž
+•
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTextWidget.java¡ ¡(6
+%00org.gwtbootstrap3.client.ui.base.mixin.PullMixin"__id*F*D5
+3org.gwtbootstrap3.client.ui.base.AbstractTextWidget"
+	pullMixinú÷
+•
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTextWidget.java¡ ¡("0
+%1*org.gwtbootstrap3.client.ui.constants.Pull"forg.gwtbootstrap3.client.ui.base.mixin.PullMixin#getPull()Lorg/gwtbootstrap3/client/ui/constants/Pull;*8
+6
+%00org.gwtbootstrap3.client.ui.base.mixin.PullMixin2	getPull()"Ì
+•
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractTextWidget.java¡ ¡(#2
+0
+%1*org.gwtbootstrap3.client.ui.constants.PullB75
+3org.gwtbootstrap3.client.ui.base.AbstractTextWidget

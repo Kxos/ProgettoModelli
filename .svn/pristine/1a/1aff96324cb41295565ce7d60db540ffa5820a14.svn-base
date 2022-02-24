@@ -1,0 +1,24 @@
+
+£org.gwtbootstrap3.client.ui.Modal#addHideHandler(Lorg/gwtbootstrap3/client/shared/event/ModalHideHandler;)Lcom/google/web/bindery/event/shared/HandlerRegistration;û
+ëD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Modal.javaˇ ˇ(-"1*°
+1û
+ëD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Modal.javaÄ Ä(˙
+˜
+û
+ëD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Modal.javaÄ, Ä(D/
+%0)com.google.gwt.event.shared.GwtEvent$Type"iorg.gwtbootstrap3.client.shared.event.ModalHideEvent#getType()Lcom/google/gwt/event/shared/GwtEvent$Type;*8"6
+4org.gwtbootstrap3.client.shared.event.ModalHideEvent†ù
+û
+ëD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Modal.javaÄ Ä(E5
+%1/com.google.gwt.event.shared.HandlerRegistration"∑com.google.gwt.user.client.ui.Widget#addHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*%#
+!org.gwtbootstrap3.client.ui.Modal*L
+J
+modalHideHandler6org.gwtbootstrap3.client.shared.event.ModalHideHandler*1
+/
+%0)com.google.gwt.event.shared.GwtEvent$Type2aaddHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)"⁄
+û
+ëD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Modal.javaÄ Ä(F7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:J
+modalHideHandler6org.gwtbootstrap3.client.shared.event.ModalHideHandlerB%#
+!org.gwtbootstrap3.client.ui.Modal

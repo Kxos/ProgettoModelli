@@ -1,0 +1,25 @@
+
+¢org.gwtbootstrap3.client.ui.Pager#addPreviousClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)Lcom/google/web/bindery/event/shared/HandlerRegistration;€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pager.javaG G(6"1*Û
+1€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pager.javaH H(ó
+ð
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pager.javaH H(0
+%0*org.gwtbootstrap3.client.ui.AnchorListItem"__id*3*1#
+!org.gwtbootstrap3.client.ui.Pager"
+
+previousš
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pager.javaH H(55
+%1/com.google.gwt.event.shared.HandlerRegistration"¨org.gwtbootstrap3.client.ui.base.AbstractAnchorListItem#addClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;*2
+0
+%0*org.gwtbootstrap3.client.ui.AnchorListItem*>
+<
+clickHandler,com.google.gwt.event.dom.client.ClickHandler2?addClickHandler(Lcom/google/gwt/event/dom/client/ClickHandler;)"¼
+€
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Pager.javaH H(67
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:<
+clickHandler,com.google.gwt.event.dom.client.ClickHandlerB%#
+!org.gwtbootstrap3.client.ui.Pager

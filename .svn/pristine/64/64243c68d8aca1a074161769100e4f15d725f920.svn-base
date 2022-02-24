@@ -1,0 +1,21 @@
+
+eorg.gwtbootstrap3.client.ui.PanelHeader#getDataToggle()Lorg/gwtbootstrap3/client/ui/constants/Toggle;†
+|C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/PanelHeader.javal l("1*é
+1†
+|C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/PanelHeader.javam m(Ž
+‹
+†
+|C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/PanelHeader.javam m(<
+%06org.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin"__id*<*:)
+'org.gwtbootstrap3.client.ui.PanelHeader"
+toggleMixin‡„
+†
+|C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/PanelHeader.javam m(*2
+%1,org.gwtbootstrap3.client.ui.constants.Toggle"torg.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin#getDataToggle()Lorg/gwtbootstrap3/client/ui/constants/Toggle;*>
+<
+%06org.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin2getDataToggle()"¿
+†
+|C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/PanelHeader.javam m(+4
+2
+%1,org.gwtbootstrap3.client.ui.constants.ToggleB+)
+'org.gwtbootstrap3.client.ui.PanelHeader

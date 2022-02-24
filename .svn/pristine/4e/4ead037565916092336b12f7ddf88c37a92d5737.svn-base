@@ -1,0 +1,21 @@
+
+Zorg.gwtbootstrap3.client.ui.Icon#getFlip()Lorg/gwtbootstrap3/client/ui/constants/IconFlip;Å
+uC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaî î("1*¯
+1Å
+uC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaï ï(ûõ
+Å
+uC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaï& ï(4
+%0java.lang.String"Gcom.google.gwt.user.client.ui.UIObject#getStyleName()Ljava/lang/String;*$"
+ org.gwtbootstrap3.client.ui.Icon2getStyleName()é
+ã
+Å
+uC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaï ï(54
+%1.org.gwtbootstrap3.client.ui.constants.IconFlip"Äorg.gwtbootstrap3.client.ui.constants.IconFlip#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/IconFlip;*2"0
+.org.gwtbootstrap3.client.ui.constants.IconFlip*
+
+%0java.lang.String"º
+Å
+uC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Icon.javaï ï(66
+4
+%1.org.gwtbootstrap3.client.ui.constants.IconFlipB$"
+ org.gwtbootstrap3.client.ui.Icon

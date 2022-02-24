@@ -1,0 +1,16 @@
+
+jorg.gwtbootstrap3.client.shared.event.CarouselSlidEvent#getNativeEvent()Lcom/google/gwt/user/client/Event;—
+ŒC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java5 5("1*€
+1—
+ŒC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java6 6(™
+–
+—
+ŒC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java6 6(&
+%0 com.google.gwt.user.client.Event"__id*L*J9
+7org.gwtbootstrap3.client.shared.event.CarouselSlidEvent"
+nativeEvent"Ä
+—
+ŒC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/CarouselSlidEvent.java6 6((
+&
+%0 com.google.gwt.user.client.EventB;9
+7org.gwtbootstrap3.client.shared.event.CarouselSlidEvent

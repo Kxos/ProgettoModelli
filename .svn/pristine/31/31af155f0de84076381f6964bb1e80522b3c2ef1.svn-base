@@ -1,0 +1,25 @@
+
+ùorg.gwtbootstrap3.client.ui.Collapse#addHiddenHandler(Lorg/gwtbootstrap3/client/shared/event/HiddenHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;Ö
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Collapse.javaé é(/"1*¥
+
+1Ö
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Collapse.javaè è(€
+ÿ
+Ö
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Collapse.javaè) è(>/
+%0)com.google.gwt.event.shared.GwtEvent$Type"forg.gwtbootstrap3.client.shared.event.HiddenEvent#getType()Lcom/google/gwt/event/shared/GwtEvent$Type;*5"3
+1org.gwtbootstrap3.client.shared.event.HiddenEventÑÅ
+Ö
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Collapse.javaè è(?5
+%1/com.google.gwt.event.shared.HandlerRegistration"∑com.google.gwt.user.client.ui.Widget#addHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*(&
+$org.gwtbootstrap3.client.ui.Collapse*F
+D
+hiddenHandler3org.gwtbootstrap3.client.shared.event.HiddenHandler*1
+/
+%0)com.google.gwt.event.shared.GwtEvent$Type2aaddHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)"¡
+Ö
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Collapse.javaè è(@7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:D
+hiddenHandler3org.gwtbootstrap3.client.shared.event.HiddenHandlerB(&
+$org.gwtbootstrap3.client.ui.Collapse

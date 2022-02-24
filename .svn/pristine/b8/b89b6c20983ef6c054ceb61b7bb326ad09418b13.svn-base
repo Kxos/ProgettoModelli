@@ -1,0 +1,21 @@
+
+Borg.gwtbootstrap3.client.ui.ImageAnchor#getUrl()Ljava/lang/String;¢
+—D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ImageAnchor.java] ]("1*´
+1¢
+—D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ImageAnchor.java^ ^(
+Œ
+¢
+—D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ImageAnchor.java^ ^('
+%0!org.gwtbootstrap3.client.ui.Image"__id*6*4)
+'org.gwtbootstrap3.client.ui.ImageAnchor"
+imageµ²
+¢
+—D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ImageAnchor.java^ ^(
+%1java.lang.String">com.google.gwt.user.client.ui.Image#getUrl()Ljava/lang/String;*)
+'
+%0!org.gwtbootstrap3.client.ui.Image2getUrl()"¿
+¢
+—D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/ImageAnchor.java^ ^(
+
+%1java.lang.StringB+)
+'org.gwtbootstrap3.client.ui.ImageAnchor

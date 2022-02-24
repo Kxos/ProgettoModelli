@@ -1,0 +1,20 @@
+
+2org.gwtbootstrap3.client.ui.Alert#isDismissable()Z‚
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Alert.java© ©( "1*õ
+1‚
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Alert.javaª ª(
+ş
+‚
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Alert.javaª ª(9
+%03org.gwtbootstrap3.client.ui.base.button.CloseButton"__id*6*4#
+!org.gwtbootstrap3.client.ui.Alert"
+closeButtonÖÓ
+‚
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Alert.javaª ª(&*
+%1$com.google.gwt.user.client.ui.Widget"Vcom.google.gwt.user.client.ui.Widget#getParent()Lcom/google/gwt/user/client/ui/Widget;*;
+9
+%03org.gwtbootstrap3.client.ui.base.button.CloseButton2getParent()"
+‚
+vC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/Alert.javaª ª(/
+""B%#
+!org.gwtbootstrap3.client.ui.Alert

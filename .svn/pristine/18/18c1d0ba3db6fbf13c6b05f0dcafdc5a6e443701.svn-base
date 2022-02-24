@@ -1,0 +1,26 @@
+
+Œorg.gwtbootstrap3.client.ui.constants.PaginationSize#fromStyleName(Ljava/lang/String;)Lorg/gwtbootstrap3/client/ui/constants/PaginationSize;¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/PaginationSize.java.! .(."1*Å	
+1¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/PaginationSize.java/ /(ÿ
+ü
+¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/PaginationSize.java/I /(M:
+%04org.gwtbootstrap3.client.ui.constants.PaginationSize"__id*
+""˜
+•
+¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/PaginationSize.java/ /(N:
+%14org.gwtbootstrap3.client.ui.constants.PaginationSize"…org.gwtbootstrap3.client.ui.base.helper.EnumHelper#fromStyleName(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Enum;)Ljava/lang/Enum;*6"4
+2org.gwtbootstrap3.client.ui.base.helper.EnumHelper*
+
+	styleNamejava.lang.String*
+""*<
+:
+%04org.gwtbootstrap3.client.ui.constants.PaginationSize"ð
+¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/constants/PaginationSize.java/ /(O<
+:
+%14org.gwtbootstrap3.client.ui.constants.PaginationSize:
+	styleNamejava.lang.StringB8"6
+4org.gwtbootstrap3.client.ui.constants.PaginationSize

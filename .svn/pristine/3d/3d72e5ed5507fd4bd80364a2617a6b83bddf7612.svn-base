@@ -1,0 +1,26 @@
+
+Rorg.gwtbootstrap3.client.ui.base.ValueBoxBaseUi#getPlaceholder()Ljava/lang/String;“
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.javaN N( "1*â	
+1“
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.javaO O(ßÜ
+“
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.javaO O((
+%0"com.google.gwt.user.client.Element"Wcom.google.gwt.user.client.ui.UIObject#getElement()Lcom/google/gwt/user/client/Element;*31
+/org.gwtbootstrap3.client.ui.base.ValueBoxBaseUi2getElement()¿
+¼
+“
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.javaO) O(4
+%1java.lang.String"__id*
+""ïì
+“
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.javaO O(5
+%2java.lang.String"Tcom.google.gwt.dom.client.Element#getAttribute(Ljava/lang/String;)Ljava/lang/String;**
+(
+%0"com.google.gwt.user.client.Element*
+
+%1java.lang.String2 getAttribute(Ljava/lang/String;)"°
+“
+ˆC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBaseUi.javaO O(6
+
+%2java.lang.StringB31
+/org.gwtbootstrap3.client.ui.base.ValueBoxBaseUi

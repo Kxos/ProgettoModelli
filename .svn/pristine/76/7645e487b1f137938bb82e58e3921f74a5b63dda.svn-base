@@ -1,0 +1,42 @@
+
+Ùorg.gwtbootstrap3.client.ui.SuggestBox#addValidationChangedHandler(Lorg/gwtbootstrap3/client/ui/form/validator/ValidationChangedEvent$ValidationChangedHandler;)Lcom/google/web/bindery/event/shared/HandlerRegistration;‹
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaÕ Õ(:"startingBlock*Ú
+startingBlock‹
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaÕ: Õ(\¤
+¡
+‹
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaÔ Ô(
+%2"
+__annotate*
+java.lang.Override*g
+e
+handlerZorg.gwtbootstrap3.client.ui.form.validator.ValidationChangedEvent$ValidationChangedHandlerŽ
+‹
+‹
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaÕT Õ([e
+handlerZorg.gwtbootstrap3.client.ui.form.validator.ValidationChangedEvent$ValidationChangedHandler"__annotation*
+
+%2*
+1*ì
+
+1‹
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaÖ Ö(™
+–
+‹
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaÖ Ö(@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin"__id*>*<(
+&org.gwtbootstrap3.client.ui.SuggestBox"
+validatorMixinêç
+‹
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaÖ Ö(B=
+%17com.google.web.bindery.event.shared.HandlerRegistration"ïorg.gwtbootstrap3.client.ui.base.mixin.DefaultValidatorMixin#addValidationChangedHandler(Lorg/gwtbootstrap3/client/ui/form/validator/ValidationChangedEvent$ValidationChangedHandler;)Lcom/google/web/bindery/event/shared/HandlerRegistration;*B
+@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin*g
+e
+handlerZorg.gwtbootstrap3.client.ui.form.validator.ValidationChangedEvent$ValidationChangedHandler2yaddValidationChangedHandler(Lorg/gwtbootstrap3/client/ui/form/validator/ValidationChangedEvent$ValidationChangedHandler;)"Ï
+‹
+C:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.javaÖ Ö(C?
+=
+%17com.google.web.bindery.event.shared.HandlerRegistration:e
+handlerZorg.gwtbootstrap3.client.ui.form.validator.ValidationChangedEvent$ValidationChangedHandlerB*(
+&org.gwtbootstrap3.client.ui.SuggestBox

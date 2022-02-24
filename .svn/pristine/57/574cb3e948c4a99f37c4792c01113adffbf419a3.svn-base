@@ -1,0 +1,21 @@
+
+rorg.gwtbootstrap3.client.ui.base.AbstractButtonGroup#getDataToggle()Lorg/gwtbootstrap3/client/ui/constants/Toggle;¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractButtonGroup.javaa a("1*š	
+1¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractButtonGroup.javab b(Ä
+Á
+¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractButtonGroup.javab b(<
+%06org.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin"__id*I*G6
+4org.gwtbootstrap3.client.ui.base.AbstractButtonGroup"
+toggleMixin°­
+¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractButtonGroup.javab b(*2
+%1,org.gwtbootstrap3.client.ui.constants.Toggle"torg.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin#getDataToggle()Lorg/gwtbootstrap3/client/ui/constants/Toggle;*>
+<
+%06org.gwtbootstrap3.client.ui.base.mixin.DataToggleMixin2getDataToggle()"è
+¯
+¤D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractButtonGroup.javab b(+4
+2
+%1,org.gwtbootstrap3.client.ui.constants.ToggleB86
+4org.gwtbootstrap3.client.ui.base.AbstractButtonGroup

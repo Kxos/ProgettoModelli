@@ -1,0 +1,16 @@
+
+jorg.gwtbootstrap3.client.shared.event.TooltipHiddenEvent#getTooltip()Lorg/gwtbootstrap3/client/ui/Tooltip;³
+¨D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHiddenEvent.java0 0("1*×
+1³
+¨D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHiddenEvent.java1 1(µ
+²
+³
+¨D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHiddenEvent.java1 1()
+%0#org.gwtbootstrap3.client.ui.Tooltip"__id*I*G:
+8org.gwtbootstrap3.client.shared.event.TooltipHiddenEvent"	
+tooltip"ã
+³
+¨D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/shared/event/TooltipHiddenEvent.java1 1(+
+)
+%0#org.gwtbootstrap3.client.ui.TooltipB<:
+8org.gwtbootstrap3.client.shared.event.TooltipHiddenEvent

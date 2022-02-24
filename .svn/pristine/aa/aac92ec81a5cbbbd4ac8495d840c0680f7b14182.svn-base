@@ -1,0 +1,20 @@
+
+3org.gwtbootstrap3.client.ui.SuggestBox#isEnabled()Z‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.java’ ’("1*Ü
+1‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.java“ “(Œ
+‰
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.java“ “(9
+%03org.gwtbootstrap3.client.ui.base.mixin.EnabledMixin"__id*<*:(
+&org.gwtbootstrap3.client.ui.SuggestBox"
+enabledMixin¨¥
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.java“ “('
+%1boolean"@org.gwtbootstrap3.client.ui.base.mixin.EnabledMixin#isEnabled()Z*;
+9
+%03org.gwtbootstrap3.client.ui.base.mixin.EnabledMixin2isEnabled()"’
+‡
+{C:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/SuggestBox.java“ “((
+""B*(
+&org.gwtbootstrap3.client.ui.SuggestBox

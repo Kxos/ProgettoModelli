@@ -1,0 +1,42 @@
+
+—org.gwtbootstrap3.client.ui.CheckBox#addChangeHandler(Lcom/google/gwt/event/dom/client/ChangeHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaÝ Ý(/"startingBlock*î
+startingBlock…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaÝ/ Ý(Fñ
+î
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaÜ Ü(
+%2"
+__annotate*
+java.lang.Override*:
+8
+handler-com.google.gwt.event.dom.client.ChangeHandlerÛ
+Ø
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaÝ> Ý(E8
+handler-com.google.gwt.event.dom.client.ChangeHandler"__annotation*
+
+%2*
+1*¶
+
+1…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaÞ Þ(×
+Ô
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaÞ& Þ(;3
+%0-com.google.gwt.event.dom.client.DomEvent$Type"dcom.google.gwt.event.dom.client.ChangeEvent#getType()Lcom/google/gwt/event/dom/client/DomEvent$Type;*/"-
++com.google.gwt.event.dom.client.ChangeEventŠ‡
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaÞ Þ(<5
+%1/com.google.gwt.event.shared.HandlerRegistration"¾com.google.gwt.user.client.ui.Widget#addDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*(&
+$org.gwtbootstrap3.client.ui.CheckBox*:
+8
+handler-com.google.gwt.event.dom.client.ChangeHandler*5
+3
+%0-com.google.gwt.event.dom.client.DomEvent$Type2haddDomHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/dom/client/DomEvent$Type;)"Á
+…
+yC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/CheckBox.javaÞ Þ(=7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:8
+handler-com.google.gwt.event.dom.client.ChangeHandlerB(&
+$org.gwtbootstrap3.client.ui.CheckBox

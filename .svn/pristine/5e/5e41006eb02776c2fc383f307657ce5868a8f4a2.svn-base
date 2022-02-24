@@ -1,0 +1,44 @@
+
+Vorg.gwtbootstrap3.client.ui.form.validator.RegExValidator#isValid(Ljava/lang/String;)Zù
+íC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/RegExValidator.java7 7("startingBlock*°
+2ù
+íC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/RegExValidator.java8  8(%û
+õ
+ù
+íC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/RegExValidator.java8  8(%)
+%0#com.google.gwt.regexp.shared.RegExp"__id*H*F;
+9org.gwtbootstrap3.client.ui.form.validator.RegExValidator"
+regex’“
+ù
+íC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/RegExValidator.java8  8(1
+%1boolean"=com.google.gwt.regexp.shared.RegExp#test(Ljava/lang/String;)Z*+
+)
+%0#com.google.gwt.regexp.shared.RegExp*
+
+valuejava.lang.String2test(Ljava/lang/String;)*
+1*˚
+startingBlockù
+íC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/RegExValidator.java7 7((Í
+Á
+ù
+íC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/RegExValidator.java6 6(
+%2"
+__annotate*
+java.lang.Override*
+
+valuejava.lang.String‘
+—
+ù
+íC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/RegExValidator.java7" 7('
+valuejava.lang.String"__annotation*
+
+%2*
+2
+1*Œ
+1ù
+íC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/RegExValidator.java8 8(2"®
+ù
+íC:/Users/Kxos/Downloads/Progetto MMQS/Progetto Checkout/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/form/validator/RegExValidator.java8 8(2
+"":
+valuejava.lang.StringB=;
+9org.gwtbootstrap3.client.ui.form.validator.RegExValidator

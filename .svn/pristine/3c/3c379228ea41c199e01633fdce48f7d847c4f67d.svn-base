@@ -1,0 +1,21 @@
+
+=org.gwtbootstrap3.client.ui.base.AbstractListItem#isActive()Z¬
+¡D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.javaR R("1*õ
+1¬
+¡D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.javaS S(º
+·
+¬
+¡D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.javaS S(8
+%02org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin"__id*F*D3
+1org.gwtbootstrap3.client.ui.base.AbstractListItem"
+activeMixinÉÆ
+¬
+¡D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.javaS S(%
+%1boolean">org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin#isActive()Z*:
+8
+%02org.gwtbootstrap3.client.ui.base.mixin.ActiveMixin2
+isActive()"·
+¬
+¡D:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/AbstractListItem.javaS S(&
+""B53
+1org.gwtbootstrap3.client.ui.base.AbstractListItem

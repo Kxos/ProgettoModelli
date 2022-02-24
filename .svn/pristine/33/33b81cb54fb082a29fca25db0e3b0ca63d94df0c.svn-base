@@ -1,0 +1,41 @@
+
+‡org.gwtbootstrap3.client.ui.base.ValueBoxBase#addValidationChangedHandler(Lorg/gwtbootstrap3/client/ui/form/validator/ValidationChangedEvent$ValidationChangedHandler;)Lcom/google/web/bindery/event/shared/HandlerRegistration;è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java’ ’(:"startingBlock*Ê
+startingBlockè
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java’: ’(\®
+•
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java‘ ‘(
+%2"
+__annotate*
+java.lang.Override*g
+e
+handlerZorg.gwtbootstrap3.client.ui.form.validator.ValidationChangedEvent$ValidationChangedHandlerí
+è
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java’T ’([e
+handlerZorg.gwtbootstrap3.client.ui.form.validator.ValidationChangedEvent$ValidationChangedHandler"__annotation*
+
+%2*
+1*É
+1è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java÷ ÷(§
+°
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java÷ ÷(@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin"__id*E*C/
+-org.gwtbootstrap3.client.ui.base.ValueBoxBase"
+validatorMixinÓÎ
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java÷ ÷(B=
+%17com.google.web.bindery.event.shared.HandlerRegistration"Ôorg.gwtbootstrap3.client.ui.base.mixin.DefaultValidatorMixin#addValidationChangedHandler(Lorg/gwtbootstrap3/client/ui/form/validator/ValidationChangedEvent$ValidationChangedHandler;)Lcom/google/web/bindery/event/shared/HandlerRegistration;*B
+@
+%0:org.gwtbootstrap3.client.ui.base.mixin.BlankValidatorMixin*g
+e
+handlerZorg.gwtbootstrap3.client.ui.form.validator.ValidationChangedEvent$ValidationChangedHandler2yaddValidationChangedHandler(Lorg/gwtbootstrap3/client/ui/form/validator/ValidationChangedEvent$ValidationChangedHandler;)"”
+è
+ÇC:/Users/Kxos/Downloads/Progetto MMQS/gwtbootstrap3/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/base/ValueBoxBase.java÷ ÷(C?
+=
+%17com.google.web.bindery.event.shared.HandlerRegistration:e
+handlerZorg.gwtbootstrap3.client.ui.form.validator.ValidationChangedEvent$ValidationChangedHandlerB1/
+-org.gwtbootstrap3.client.ui.base.ValueBoxBase

@@ -1,0 +1,24 @@
+
+°org.gwtbootstrap3.client.ui.TabListItem#addShownHandler(Lorg/gwtbootstrap3/client/shared/event/TabShownHandler;)Lcom/google/gwt/event/shared/HandlerRegistration;§
+óD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabListItem.javaÅ Å(."1*∏
+1§
+óD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabListItem.javaÇ Ç(˛
+˚
+§
+óD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabListItem.javaÇ( Ç(?/
+%0)com.google.gwt.event.shared.GwtEvent$Type"horg.gwtbootstrap3.client.shared.event.TabShownEvent#getType()Lcom/google/gwt/event/shared/GwtEvent$Type;*7"5
+3org.gwtbootstrap3.client.shared.event.TabShownEventß§
+§
+óD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabListItem.javaÇ Ç(@5
+%1/com.google.gwt.event.shared.HandlerRegistration"∑com.google.gwt.user.client.ui.Widget#addHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)Lcom/google/gwt/event/shared/HandlerRegistration;*+)
+'org.gwtbootstrap3.client.ui.TabListItem*G
+E
+shownHandler5org.gwtbootstrap3.client.shared.event.TabShownHandler*1
+/
+%0)com.google.gwt.event.shared.GwtEvent$Type2aaddHandler(Lcom/google/gwt/event/shared/EventHandler;Lcom/google/gwt/event/shared/GwtEvent$Type;)"‡
+§
+óD:/Users/Andrea/Documents/Documenti personali/UniBA/Modelli/ProgettoModelliSVN/gwtbootstrap3/src/main/java/org/gwtbootstrap3/client/ui/TabListItem.javaÇ Ç(A7
+5
+%1/com.google.gwt.event.shared.HandlerRegistration:E
+shownHandler5org.gwtbootstrap3.client.shared.event.TabShownHandlerB+)
+'org.gwtbootstrap3.client.ui.TabListItem
